@@ -1,12 +1,12 @@
-# 蘑菇博客
+# 博客
 
 <p align=center>
   <a href="http://www.moguit.cn">
-    <img src="./doc/images/gitee/favicon2.ico" alt="蘑菇博客" style="width:200px;height:200px">
+    <img src="./doc/images/gitee/favicon2.ico" alt="博客" style="width:200px;height:200px">
   </a>
 </p>
 <p align=center>
-   蘑菇博客，一个基于微服务架构的前后端分离博客系统
+  一个基于微服务架构的前后端分离博客系统
 </p>
 <p align="center">
 <a target="_blank" href="https://gitee.com/moxi159753/mogu_blog_v2">
