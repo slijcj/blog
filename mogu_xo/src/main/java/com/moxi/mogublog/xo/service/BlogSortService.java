@@ -10,7 +10,7 @@ import java.util.List;
 /**
  * 博客分类表 服务类
  *
- * @author 陌溪
+ * @author Ckp_Pro
  * @date 2018-09-08
  */
 public interface BlogSortService extends SuperService<BlogSort> {

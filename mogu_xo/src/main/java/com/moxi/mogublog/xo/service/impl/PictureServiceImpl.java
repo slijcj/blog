@@ -30,7 +30,7 @@ import java.util.*;
 /**
  * 图片表 服务实现类
  *
- * @author 陌溪
+ * @author Ckp_Pro
  * @since 2018-09-04
  */
 @Service

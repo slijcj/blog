@@ -8,8 +8,8 @@ import java.lang.annotation.Target;
 /**
  * 自定义注解 避免接口重复提交
  *
- * @author Administrator
- * @date 2020年4月23日12:12:04
+ * @author Ckp_Pro
+ * @date 2021年3月23日12:12:04
  */
 @Target(ElementType.METHOD)
 @Retention(RetentionPolicy.RUNTIME)

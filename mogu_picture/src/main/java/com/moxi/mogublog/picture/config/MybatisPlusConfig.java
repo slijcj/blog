@@ -10,8 +10,8 @@ import org.springframework.context.annotation.Configuration;
 /**
  * Mybatis-plus插件配置
  *
- * @author 陌溪
- * @date 2020年10月4日10:49:23
+ * @author Ckp_Pro
+ * @date 2021年3月4日10:49:23
  */
 @Configuration
 //@MapperScan("com.baomidou.springboot.mapper*")//这个注解，作用相当于下面的@Bean MapperScannerConfigurer，2者配置1份即可

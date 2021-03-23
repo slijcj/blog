@@ -3,7 +3,7 @@ package com.moxi.mougblog.base.global;
 /**
  * 字符常量
  *
- * @author: 陌溪
+ * @author: Ckp_Pro
  * @date: 2019年12月4日22:47:53
  */
 public class Constants {

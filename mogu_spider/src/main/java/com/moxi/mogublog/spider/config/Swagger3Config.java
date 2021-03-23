@@ -14,7 +14,7 @@ import springfox.documentation.spring.web.plugins.Docket;
 /**
  * Swagger配置文件
  *
- * @author 陌溪
+ * @author Ckp_Pro
  * @date 2021年1月8日19:41:42
  */
 @Configuration

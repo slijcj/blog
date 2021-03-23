@@ -2,7 +2,7 @@ package com.moxi.mogublog.utils;
 /**
  * 时间操作工具类
  *
- * @author 陌溪
+ * @author Ckp_Pro
  * 2018年5月8日 上午9:20:33
  */
 
@@ -64,7 +64,7 @@ public class DateUtils {
 
     /**
      * @return
-     * @author 陌溪
+     * @author Ckp_Pro
      * @date 2018年6月14日
      */
     public static String getNowTimeFormat() {

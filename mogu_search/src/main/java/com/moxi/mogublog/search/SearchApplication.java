@@ -11,8 +11,8 @@ import org.springframework.context.annotation.ComponentScan;
 import springfox.documentation.oas.annotations.EnableOpenApi;
 
 /**
- * @author 陌溪
- * @date 2020年1月10日21:08:23
+ * @author Ckp_Pro
+ * @date 2021年1月10日21:08:23
  */
 @SpringBootApplication(exclude = {DataSourceAutoConfiguration.class, RedisAutoConfiguration.class,
         RedisRepositoriesAutoConfiguration.class})

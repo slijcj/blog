@@ -21,7 +21,7 @@ import java.util.regex.Pattern;
 /**
  * 爬取的图片页面处理
  *
- * @author 陌溪
+ * @author Ckp_Pro
  * @date 2021年1月8日16:47:34
  */
 @Component

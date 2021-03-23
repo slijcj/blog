@@ -16,8 +16,8 @@ import java.util.List;
 /**
  * Swagger配置类
  *
- * @author 陌溪
- * @date 2020年12月4日22:50:09
+ * @author Ckp_Pro
+ * @date 2021年3月4日22:50:09
  */
 @Slf4j
 @Component

@@ -16,8 +16,8 @@ import java.util.TimeZone;
 /**
  * mogu-admin 启动类
  *
- * @author 陌溪
- * @date 2020年12月31日21:26:04
+ * @author Ckp_Pro
+ * @date 2021年3月31日21:26:04
  */
 @EnableTransactionManagement
 @SpringBootApplication

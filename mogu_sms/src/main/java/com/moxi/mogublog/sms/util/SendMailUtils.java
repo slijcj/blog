@@ -11,7 +11,7 @@ import javax.mail.internet.MimeMessage;
 /**
  * 邮件发送工具类
  *
- * @author 陌溪
+ * @author Ckp_Pro
  * @date 2018年10月20日下午3:18:25
  */
 @Slf4j

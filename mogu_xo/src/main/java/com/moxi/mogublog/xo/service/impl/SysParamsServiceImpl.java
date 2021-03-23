@@ -30,8 +30,8 @@ import java.util.List;
 /**
  * 参数配置 服务实现类
  *
- * @author 陌溪
- * @date 2020年7月21日16:41:28
+ * @author Ckp_Pro
+ * @date 2021年2月21日16:41:28
  */
 @Service
 public class SysParamsServiceImpl extends SuperServiceImpl<SysParamsMapper, SysParams> implements SysParamsService {

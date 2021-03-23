@@ -10,7 +10,7 @@ import lombok.Data;
 /**
  * 门户页导航栏VO
  *
- * @author 陌溪
+ * @author Ckp_Pro
  * @since 2021年2月22日16:51:14
  */
 @Data

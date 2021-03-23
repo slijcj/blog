@@ -8,7 +8,7 @@ import lombok.Data;
 /**
  * 网站配置VO
  *
- * @author 陌溪
+ * @author Ckp_Pro
  * @since 2018年11月11日14:54:12
  */
 @Data

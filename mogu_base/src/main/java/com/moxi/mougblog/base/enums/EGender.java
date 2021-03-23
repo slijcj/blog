@@ -3,8 +3,8 @@ package com.moxi.mougblog.base.enums;
 /**
  * 性别枚举类
  *
- * @author 陌溪
- * @date 2020年5月28日09:28:14
+ * @author Ckp_Pro
+ * @date 2021年2月28日09:28:14
  */
 public class EGender {
 

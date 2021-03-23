@@ -28,8 +28,8 @@ import java.util.List;
 /**
  * 参数配置 RestApi
  *
- * @author 陌溪
- * @date 2020年7月21日15:57:41
+ * @author Ckp_Pro
+ * @date 2021年2月21日15:57:41
  */
 @RestController
 @RequestMapping("/sysParams")

@@ -36,7 +36,7 @@ import java.util.*;
 /**
  * 文件服务实现类【上传需调用本地文件服务、七牛云文件服务、Minio文件服务】
  *
- * @author 陌溪
+ * @author Ckp_Pro
  * @since 2018-09-17
  */
 @Slf4j

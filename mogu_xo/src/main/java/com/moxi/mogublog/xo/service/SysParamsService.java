@@ -10,8 +10,8 @@ import java.util.List;
 /**
  * 参数配置 服务类
  *
- * @author 陌溪
- * @date 2020年7月21日15:54:00
+ * @author Ckp_Pro
+ * @date 2021年2月21日15:54:00
  */
 public interface SysParamsService extends SuperService<SysParams> {
 

@@ -29,8 +29,8 @@ import java.util.concurrent.TimeUnit;
 /**
  * web有关的工具类
  *
- * @author 陌溪
- * @date 2020年4月6日23:42:41
+ * @author Ckp_Pro
+ * @date 2021年3月6日23:42:41
  */
 @Slf4j
 @Component

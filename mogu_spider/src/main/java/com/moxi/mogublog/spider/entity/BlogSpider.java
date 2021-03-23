@@ -9,7 +9,7 @@ import lombok.Data;
 /**
  * 文件实体类
  *
- * @author 陌溪
+ * @author Ckp_Pro
  * @since 2021年1月8日19:46:41
  */
 @TableName("t_blog_spider")

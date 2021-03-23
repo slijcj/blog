@@ -8,7 +8,7 @@ import lombok.Data;
  * ExceptionLogVO
  * </p>
  *
- * @author 陌溪
+ * @author Ckp_Pro
  * @since 2020年4月7日11:45:40
  */
 @Data

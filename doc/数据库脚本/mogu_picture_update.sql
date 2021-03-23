@@ -33,7 +33,7 @@ CREATE TABLE `t_storage` (
 
 /*
  在t_storage表，添加最大容量限制字段
- @date 2020年10月9日09:55:28
+ @date 2021年3月9日09:55:28
 */
 alter table t_storage add max_storage_size bigint default 0 null comment '最大容量大小';
 
@@ -41,7 +41,7 @@ alter table t_storage add max_storage_size bigint default 0 null comment '最大
 
 /*
  在t_file 表，添加Minio文件URL字段
- @date 2020年10月21日21:18:11
+ @date 2021年3月21日21:18:11
 */
 ALTER TABLE  t_file ADD minio_url varchar(255) default NULL COMMENT "Minio文件URL";
 

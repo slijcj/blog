@@ -8,7 +8,7 @@ import com.moxi.mougblog.base.service.SuperService;
 /**
  * 待办事项表 服务类
  *
- * @author 陌溪
+ * @author Ckp_Pro
  * @date 2019年6月29日10:31:18
  */
 public interface TodoService extends SuperService<Todo> {

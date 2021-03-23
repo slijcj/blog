@@ -11,8 +11,8 @@ import java.lang.annotation.Target;
 /**
  * 日志记录、自定义注解
  *
- * @author 陌溪
- * @date 2020年2月27日08:55:02
+ * @author Ckp_Pro
+ * @date 2021年2月27日08:55:02
  */
 @Target(ElementType.METHOD)
 @Retention(RetentionPolicy.RUNTIME)

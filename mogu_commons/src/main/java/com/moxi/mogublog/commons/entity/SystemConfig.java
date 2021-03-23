@@ -9,7 +9,7 @@ import lombok.Data;
 /**
  * 系统配置表
  *
- * @author 陌溪
+ * @author Ckp_Pro
  * @since 2020年1月21日09:02:29
  */
 @Data

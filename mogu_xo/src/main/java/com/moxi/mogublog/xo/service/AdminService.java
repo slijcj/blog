@@ -9,7 +9,7 @@ import java.util.List;
 /**
  * 管理员表 服务类
  *
- * @author 陌溪
+ * @author Ckp_Pro
  * @date 2018-09-04
  */
 public interface AdminService extends SuperService<Admin> {

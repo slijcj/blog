@@ -10,7 +10,7 @@ import java.util.List;
 /**
  * 资源分类表 服务类
  *
- * @author 陌溪
+ * @author Ckp_Pro
  * @date 2018-09-04
  */
 public interface ResourceSortService extends SuperService<ResourceSort> {

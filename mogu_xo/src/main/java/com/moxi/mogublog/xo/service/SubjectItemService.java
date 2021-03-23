@@ -10,8 +10,8 @@ import java.util.List;
 /**
  * 专题item表 服务类
  *
- * @author 陌溪
- * @date 2020年8月23日07:56:21
+ * @author Ckp_Pro
+ * @date 2021年2月23日07:56:21
  */
 public interface SubjectItemService extends SuperService<SubjectItem> {
 

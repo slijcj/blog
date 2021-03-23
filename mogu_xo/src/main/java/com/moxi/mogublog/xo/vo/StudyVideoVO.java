@@ -10,7 +10,7 @@ import lombok.ToString;
 /**
  * StudyVideoVO
  *
- * @author: 陌溪
+ * @author: Ckp_Pro
  * @create: 2020年1月10日22:30:29
  */
 @ToString

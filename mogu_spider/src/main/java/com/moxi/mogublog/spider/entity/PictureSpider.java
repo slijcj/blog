@@ -6,7 +6,7 @@ import lombok.Data;
 /**
  * 图片对象
  *
- * @author 陌溪
+ * @author Ckp_Pro
  * @date 2021年1月8日16:55:42
  */
 @Data

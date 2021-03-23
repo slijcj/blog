@@ -5,8 +5,8 @@ import lombok.Getter;
 /**
  * 响应码枚举
  *
- * @author 陌溪
- * @date 2020年9月9日18:38:44
+ * @author Ckp_Pro
+ * @date 2021年3月9日18:38:44
  */
 @Getter
 public enum ResultCode {

@@ -8,7 +8,7 @@ import com.moxi.mougblog.base.service.SuperService;
 /**
  * 角色表 服务类
  *
- * @author 陌溪
+ * @author Ckp_Pro
  * @date 2018-09-04
  */
 public interface RoleService extends SuperService<Role> {

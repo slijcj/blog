@@ -42,7 +42,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * 文章详情 RestApi
  *
- * @author 陌溪
+ * @author Ckp_Pro
  * @date 2018-09-04
  */
 @RestController

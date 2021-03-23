@@ -33,8 +33,8 @@ import java.util.Map;
 /**
  * 七牛云工具类
  *
- * @author 陌溪
- * @date 2020年1月20日20:02:36
+ * @author Ckp_Pro
+ * @date 2021年1月20日20:02:36
  * @comments: 七牛云图片配置
  */
 @Slf4j

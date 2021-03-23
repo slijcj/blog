@@ -14,7 +14,7 @@ import java.util.List;
 /**
  * mogu_picture相关接口
  *
- * @author 陌溪
+ * @author Ckp_Pro
  */
 @FeignClient(name = "mogu-picture", configuration = FeignConfiguration.class, fallback = PictureFeignFallback.class)
 public interface PictureFeignClient {

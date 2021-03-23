@@ -9,7 +9,7 @@ import lombok.Data;
  * SysLogVO
  * </p>
  *
- * @author 陌溪
+ * @author Ckp_Pro
  * @since 2020年4月7日11:46:30
  */
 @Data

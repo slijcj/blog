@@ -3,7 +3,7 @@ package com.moxi.mogublog.utils;
 /**
  * 雪花ID生成器
  *
- * @author: 陌溪
+ * @author: Ckp_Pro
  * @create: 2020-11-13-10:36
  *
  * Twitter开源的分布式Id生成器，使用雪花算法

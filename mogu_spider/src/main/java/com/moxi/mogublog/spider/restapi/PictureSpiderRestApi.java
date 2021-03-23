@@ -19,7 +19,7 @@ import java.util.List;
 /**
  * 图片爬取RestApi
  *
- * @author 陌溪
+ * @author Ckp_Pro
  * @date 2021年1月8日19:53:37
  */
 @RestController

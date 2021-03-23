@@ -15,8 +15,8 @@ import java.util.Map;
 /**
  * 用于RabbitMQ发送消息
  *
- * @author 陌溪
- * @date 2020年4月29日11:56:10
+ * @author Ckp_Pro
+ * @date 2021年3月29日11:56:10
  */
 @Slf4j
 @RefreshScope

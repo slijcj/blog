@@ -13,7 +13,7 @@ import java.util.List;
 /**
  * 图片服务降级兜底方法【当服务不可用时会触发】
  *
- * @author: 陌溪
+ * @author: Ckp_Pro
  * @create: 2020-10-03-20:54
  */
 @Component

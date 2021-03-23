@@ -10,8 +10,8 @@ import java.util.List;
 /**
  * 字典类型 服务类
  *
- * @author 陌溪
- * @date 2020年2月15日21:06:45
+ * @author Ckp_Pro
+ * @date 2021年2月15日21:06:45
  */
 public interface SysDictTypeService extends SuperService<SysDictType> {
     /**

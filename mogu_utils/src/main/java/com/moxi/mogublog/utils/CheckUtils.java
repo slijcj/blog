@@ -6,7 +6,7 @@ import java.util.regex.Pattern;
 /**
  * 校验工具类
  *
- * @author 陌溪
+ * @author Ckp_Pro
  * @date 2018年2月8日17:21:50
  */
 public class CheckUtils {

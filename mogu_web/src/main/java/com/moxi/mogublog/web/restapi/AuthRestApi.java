@@ -62,8 +62,8 @@ import java.util.concurrent.TimeUnit;
 /**
  * 第三方登录认证
  *
- * @author 陌溪
- * @date 2020年10月11日10:25:58
+ * @author Ckp_Pro
+ * @date 2021年3月11日10:25:58
  */
 @RestController
 @RefreshScope

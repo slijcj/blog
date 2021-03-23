@@ -22,7 +22,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * 专题表 RestApi
  *
- * @author 陌溪
+ * @author Ckp_Pro
  * @since 2020年8月24日10:37:39
  */
 @Api(value = "专题相关接口", tags = {"专题相关接口"})

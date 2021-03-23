@@ -15,7 +15,7 @@ import java.util.List;
 /**
  * 字典数据查询 RestApi
  *
- * @author 陌溪
+ * @author Ckp_Pro
  * @since 2020年3月11日10:37:13
  */
 @RestController

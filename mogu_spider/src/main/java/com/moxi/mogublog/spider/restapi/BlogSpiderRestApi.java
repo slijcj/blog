@@ -16,8 +16,8 @@ import us.codecraft.webmagic.scheduler.QueueScheduler;
 /**
  * 博客爬取RestApi
  *
- * @author 陌溪
- * @date 2020年2月8日11:02:09
+ * @author Ckp_Pro
+ * @date 2021年2月8日11:02:09
  */
 @RestController
 @RequestMapping("/spider")

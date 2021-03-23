@@ -13,8 +13,8 @@ import springfox.documentation.spring.web.plugins.Docket;
 /**
  * Swagger配置文件
  *
- * @author 陌溪
- * @date 2020年9月7日18:09:35
+ * @author Ckp_Pro
+ * @date 2021年3月7日18:09:35
  */
 @Configuration
 public class Swagger3Config {

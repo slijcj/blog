@@ -1,7 +1,7 @@
 
 /*
  在t_admin表，增加个人履历字段，用于关于我页面
- @date 2020年2月10日10:49:56
+ @date 2021年2月10日10:49:56
 */
 
 ALTER TABLE  t_admin ADD person_resume TEXT COMMENT "个人履历"
@@ -9,14 +9,14 @@ ALTER TABLE  t_admin ADD person_resume TEXT COMMENT "个人履历"
 
 /*
  在t_web_config表，增加显示的列表字段，用于控制邮箱、QQ、QQ群、Github、Gitee、微信是否显示在前端
- @date 2020年2月12日10:49:56
+ @date 2021年2月12日10:49:56
 */
 ALTER TABLE  t_web_config ADD show_list VARCHAR(255) COMMENT "显示的列表（用于控制邮箱、QQ、QQ群、Github、Gitee、微信是否显示在前端）"
 
 
 /*
  增加字典类型表 和 字典数据表
- @date 2020年2月15日20:23:16
+ @date 2021年2月15日20:23:16
 */
 
 CREATE TABLE `t_sys_dict_type` (
@@ -60,7 +60,7 @@ CREATE TABLE `t_sys_dict_data` (
 
 /*
    修改t_admin和t_user的email字段 默认为空
-   @date 2020年2月17日10:17:31
+   @date 2021年2月17日10:17:31
 */
 ALTER TABLE t_user MODIFY COLUMN email VARCHAR(60) DEFAULT NULL COMMENT '邮箱';
 ALTER TABLE t_admin MODIFY COLUMN email VARCHAR(60) DEFAULT NULL COMMENT '邮箱';
@@ -71,13 +71,13 @@ ALTER TABLE  t_sys_dict_data ADD sort int(11) NOT NULL DEFAULT '0' COMMENT '排�
 
 /*
    修改t_category_menu表，增加is_hidden字段
-   @date 2020年2月21日21:23:28
+   @date 2021年2月21日21:23:28
 */
 ALTER TABLE  t_category_menu ADD is_show tinyint(1) NOT NULL DEFAULT 1 COMMENT '是否显示 1:是 0:否';
 
 /*
    修改t_user表，增加comment_status字段
-   @date 2020年3月10日15:35:04
+   @date 2021年3月10日15:35:04
 */
 ALTER TABLE  t_user ADD comment_status tinyint(1) NOT NULL DEFAULT 1 COMMENT '评论状态 1:正常 0:禁言';
 ALTER TABLE  t_user ADD ip_source varchar(255) NULL COMMENT 'ip来源';
@@ -86,20 +86,20 @@ ALTER TABLE  t_user ADD os varchar(255) NULL COMMENT '操作系统';
 
 /*
    修改t_user表，增加startEmailNotification字段
-   @date 2020年3月13日09:29:45
+   @date 2021年3月13日09:29:45
 */
 ALTER TABLE  t_user ADD start_email_notification tinyint(1) NOT NULL DEFAULT 0 COMMENT '是否开启邮件通知 1:开启 0:关闭';
 
 
 /*
    修改t_comment表，增加type字段
-   @date 2020年3月13日09:29:45
+   @date 2021年3月13日09:29:45
 */
 ALTER TABLE  t_comment ADD type tinyint(1) NOT NULL DEFAULT 0 COMMENT '评论类型 1:点赞 0:评论';
 
 /*
    修改t_link表，增加link_status字段
-   @date 2020年3月15日11:53:54
+   @date 2021年3月15日11:53:54
 */
 ALTER TABLE  t_link ADD link_status TINYINT(1) NOT NULL DEFAULT 1 COMMENT '友链状态： 0 申请， 1：上架，  2：下架';
 ALTER TABLE  t_link ADD user_uid VARCHAR(32) NULL COMMENT '申请用户UID';
@@ -108,7 +108,7 @@ ALTER TABLE  t_link ADD admin_uid VARCHAR(32) NULL COMMENT '操作管理员UID';
 
 /*
    修改t_feedback表
-   @date 2020年3月16日08:31:49
+   @date 2021年3月16日08:31:49
 */
 ALTER TABLE t_feedback ADD admin_uid varchar(32) NULL COMMENT '管理员uid';
 ALTER TABLE t_feedback ADD title varchar(255) NULL COMMENT '标题';
@@ -118,46 +118,46 @@ ALTER TABLE t_feedback ADD feedback_status TINYINT(1) NOT NULL DEFAULT 1 COMMENT
 
 /*
    修改t_user表，增加user_tag字段
-   @date 2020年3月18日08:55:44
+   @date 2021年3月18日08:55:44
 */
 ALTER TABLE t_user ADD user_tag TINYINT(1) NOT NULL DEFAULT 0 COMMENT '用户标签：0：普通用户，1：管理员，2：博主 等';
 
 
 /*
    修改t_category_menu表，增加menu_type 菜单类型字段
-   @date 2020年3月21日08:33:28
+   @date 2021年3月21日08:33:28
 */
 ALTER TABLE t_category_menu ADD menu_type TINYINT(1) NOT NULL DEFAULT 0 COMMENT '菜单类型 0: 菜单   1: 按钮';
 
 /*
    修改t_blog表，增加是否开启评论
-   @date 2020年3月29日21:51:21
+   @date 2021年3月29日21:51:21
 */
 ALTER TABLE t_blog ADD start_comment TINYINT(1) NOT NULL DEFAULT 1 COMMENT '是否开启评论(0:否 1:是)';
 
 /*
    修改t_comment表，增加 firstCommentUid，一级评论UID
-   @date 2020年3月31日23:33:17
+   @date 2021年3月31日23:33:17
 */
 ALTER TABLE t_comment ADD first_comment_uid VARCHAR(32) NULL COMMENT '一级评论UID';
 
 
 /*
    修改t_picture_sort表，增加 isShow，是否显示
-   @date 2020年4月19日16:01:34
+   @date 2021年3月19日16:01:34
 */
 ALTER TABLE t_picture_sort ADD is_show TINYINT(1) NOT NULL DEFAULT 1 COMMENT '是否显示，1：是，0，否';
 
 /*
    修改t_web_config表，增加 start_email_notification，一级评论UID
-   @date 2020年4月29日11:50:19
+   @date 2021年3月29日11:50:19
 */
 ALTER TABLE  t_user ADD start_email_notification tinyint(1) NOT NULL DEFAULT 0 COMMENT '是否开启邮件通知 1:开启 0:关闭';
 
 
 /*
  在t_web_config表，增加登录方式列表（用于控制前端登录方式，如账号密码,码云,Github,QQ,微信）
- @date 2020年2月12日10:49:56
+ @date 2021年2月12日10:49:56
 */
 ALTER TABLE  t_web_config ADD login_type_list VARCHAR(255) COMMENT "登录方式列表（用于控制前端登录方式，如账号密码,码云,Github,QQ,微信）";
 
@@ -198,7 +198,7 @@ ALTER TABLE  t_web_config ADD open_mobile_admiration TINYINT(1) NOT NULL DEFAULT
 
 /*
 	专题表
-	@date 2020年8月27日07:57:27
+	@date 2021年2月27日07:57:27
 */
 
 CREATE TABLE `t_subject` (
@@ -218,7 +218,7 @@ CREATE TABLE `t_subject` (
 
 /*
 	专题Item表
-	@date 2020年8月27日07:57:27
+	@date 2021年2月27日07:57:27
 */
 
 CREATE TABLE `t_subject_item` (
@@ -247,14 +247,14 @@ ALTER TABLE  t_link ADD file_uid VARCHAR(255) DEFAULT NULL COMMENT "网站图标
 
 /*
 * 系统配置增加主题颜色字段
-* @date 2020年10月11日19:54:51
+* @date 2021年3月11日19:54:51
 */
 ALTER TABLE t_system_config add theme_color varchar(10) default '#409EFF' not null COMMENT "主题颜色";
 
 
 /*
 	系统配置表 增加编辑器模式
-	@date 2020年10月21日17:17:24
+	@date 2021年3月21日17:17:24
 */
 ALTER TABLE  t_system_config ADD minio_end_point varchar(255) default NULL COMMENT "Minio远程连接地址";
 ALTER TABLE  t_system_config ADD minio_access_key varchar(255) default NULL COMMENT "Minio公钥";
@@ -266,7 +266,7 @@ ALTER TABLE  t_system_config ADD minio_picture_base_url varchar(255) default NUL
 
 /*
 	系统配置表 增加仪表盘弹框
-	@date 2020年11月5日21:47:48
+	@date 2021年3月5日21:47:48
 */
 ALTER TABLE  t_system_config ADD open_dashboard_notification TINYINT(1) NOT NULL DEFAULT 0 COMMENT "是否开启仪表盘通知(0:否， 1:是)";
 ALTER TABLE  t_system_config ADD dashboard_notification longtext NULL COMMENT "仪表盘通知【用于首次登录弹框】";
@@ -274,7 +274,7 @@ ALTER TABLE  t_system_config ADD dashboard_notification longtext NULL COMMENT "�
 
 /*
 	博客表 增加外链
-	@date 2020年11月7日10:49:29
+	@date 2021年3月7日10:49:29
 */
 ALTER TABLE  t_blog ADD type TINYINT(1) NOT NULL DEFAULT 0 COMMENT "类型【0 博客， 1：推广】";
 ALTER TABLE  t_blog ADD outside_link varchar(1024) NULL COMMENT "外链【如果是推广，那么将跳转到外链】";
@@ -282,7 +282,7 @@ ALTER TABLE  t_blog ADD outside_link varchar(1024) NULL COMMENT "外链【如果
 
 /*
 	博客表 增加oid字段
-	@date 2020年11月13日10:11:09
+	@date 2021年3月13日10:11:09
 */
 alter table t_blog add oid int auto_increment UNIQUE comment '唯一oid';
 
@@ -300,7 +300,7 @@ insert into `t_category_menu` (`uid`, `name`, `menu_level`, `summary`, `parent_u
 
 /*
    修改t_system_config 表，增加 contentPicturePriority 字段，博客详情图片显示
-   @date 2020年4月19日16:01:34
+   @date 2021年3月19日16:01:34
 */
 ALTER TABLE t_system_config ADD content_picture_priority TINYINT(1) NOT NULL DEFAULT 0 COMMENT '博客详情图片显示优先级（ 0:本地  1: 七牛云 2: Minio）';
 

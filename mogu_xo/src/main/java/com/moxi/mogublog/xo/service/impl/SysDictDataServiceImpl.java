@@ -32,8 +32,8 @@ import java.util.concurrent.TimeUnit;
 /**
  * 字典数据 服务实现类
  *
- * @author 陌溪
- * @date 2020年2月15日21:09:15
+ * @author Ckp_Pro
+ * @date 2021年2月15日21:09:15
  */
 @Service
 public class SysDictDataServiceImpl extends SuperServiceImpl<SysDictDataMapper, SysDictData> implements SysDictDataService {

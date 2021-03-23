@@ -6,7 +6,7 @@ import com.moxi.mougblog.base.mapper.SuperMapper;
 /**
  * 资源分类表 Mapper 接口
  *
- * @author 陌溪
+ * @author Ckp_Pro
  * @since 2018年10月19日21:24:05
  */
 public interface ResourceSortMapper extends SuperMapper<ResourceSort> {

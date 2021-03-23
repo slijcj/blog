@@ -29,8 +29,8 @@ import java.util.List;
 /**
  * 字典数据 RestApi
  *
- * @author 陌溪
- * @date 2020年2月15日21:16:31
+ * @author Ckp_Pro
+ * @date 2021年2月15日21:16:31
  */
 @RestController
 @RequestMapping("/sysDictData")

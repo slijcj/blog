@@ -48,8 +48,8 @@ import java.util.concurrent.TimeUnit;
 /**
  * 评论RestApi
  *
- * @author 陌溪
- * @date 2020年1月11日16:11:55
+ * @author Ckp_Pro
+ * @date 2021年1月11日16:11:55
  */
 @RestController
 @RefreshScope

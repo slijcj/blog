@@ -13,7 +13,7 @@ import javax.servlet.http.HttpServletRequest;
 /**
  * Feign请求拦截器【设置请求头，传递登录信息】
  *
- * @author: 陌溪
+ * @author: Ckp_Pro
  * @create: 2020-01-21-22:34
  */
 public class FeignBasicAuthRequestInterceptor implements RequestInterceptor {

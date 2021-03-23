@@ -31,7 +31,7 @@ import java.util.stream.Collectors;
  * 专题item 服务实现类
  * </p>
  *
- * @author 陌溪
+ * @author Ckp_Pro
  * @since 2020年8月23日08:08:18
  */
 @Service

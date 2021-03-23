@@ -2,7 +2,7 @@
   "name": "mogu_blog",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "陌溪_ <xzx19950624@qq.com>",
+  "author": "Ckp_Pro_ <xzx19950624@qq.com>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",

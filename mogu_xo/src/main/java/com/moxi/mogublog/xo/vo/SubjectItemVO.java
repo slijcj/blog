@@ -10,7 +10,7 @@ import lombok.Data;
 /**
  * SubjectItemVO
  *
- * @author: 陌溪
+ * @author: Ckp_Pro
  * @create: 2020年8月22日21:53:40
  */
 @Data

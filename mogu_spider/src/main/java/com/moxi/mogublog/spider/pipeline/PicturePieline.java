@@ -19,7 +19,7 @@ import java.util.List;
 /**
  * 图片传输管道
  *
- * @author 陌溪
+ * @author Ckp_Pro
  * @date 2021年1月8日16:41:32
  */
 @Component

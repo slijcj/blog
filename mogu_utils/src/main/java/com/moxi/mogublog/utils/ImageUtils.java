@@ -13,8 +13,8 @@ import java.nio.file.Paths;
 /**
  * 图片操作工具类
  *
- * @author 陌溪
- * @date 2020年9月20日11:24:52
+ * @author Ckp_Pro
+ * @date 2021年3月20日11:24:52
  */
 public class ImageUtils {
 

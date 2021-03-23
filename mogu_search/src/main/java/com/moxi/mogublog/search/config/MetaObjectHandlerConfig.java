@@ -12,8 +12,8 @@ import java.util.Date;
 /**
  * Mybatis-plus自动填充
  *
- * @author 陌溪
- * @date 2020年10月4日10:48:28
+ * @author Ckp_Pro
+ * @date 2021年3月4日10:48:28
  */
 @Component
 public class MetaObjectHandlerConfig implements MetaObjectHandler {

@@ -26,7 +26,7 @@ import java.util.List;
 /**
  * 图片表 RestApi
  *
- * @author 陌溪
+ * @author Ckp_Pro
  * @date 2018年9月17日16:21:43
  */
 @RestController

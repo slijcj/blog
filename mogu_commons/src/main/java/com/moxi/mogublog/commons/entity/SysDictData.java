@@ -11,7 +11,7 @@ import lombok.Data;
  * 字典数据表
  * </p>
  *
- * @author 陌溪
+ * @author Ckp_Pro
  * @since 2020年2月15日19:58:46
  */
 @Data

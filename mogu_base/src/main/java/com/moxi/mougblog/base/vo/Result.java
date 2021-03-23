@@ -12,8 +12,8 @@ import java.util.List;
 /**
  * 用于向前端返回统一的结果对象
  *
- * @author 陌溪
- * @date 2020年12月31日21:32:17
+ * @author Ckp_Pro
+ * @date 2021年3月31日21:32:17
  */
 @Data
 @Accessors(chain = true)

@@ -24,7 +24,7 @@ import java.util.*;
 /**
  * Freemark静态文件生成
  *
- * @author Administrator
+ * @author Ckp_Pro
  * @version 1.0
  * @create 2020年2月20日10:36:12
  **/

@@ -29,8 +29,8 @@ import java.util.concurrent.TimeUnit;
 /**
  * JWT认证过滤器 【验证token有效性】
  *
- * @author 陌溪
- * @date 2020年9月19日10:05:40
+ * @author Ckp_Pro
+ * @date 2021年3月19日10:05:40
  */
 @Slf4j
 public class JwtAuthenticationTokenFilter extends OncePerRequestFilter {

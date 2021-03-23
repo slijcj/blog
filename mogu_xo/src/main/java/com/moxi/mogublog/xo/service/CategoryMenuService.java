@@ -10,7 +10,7 @@ import java.util.Map;
 /**
  * 菜单表 服务类
  *
- * @author 陌溪
+ * @author Ckp_Pro
  * @date 2018年11月23日10:41:47
  */
 public interface CategoryMenuService extends SuperService<CategoryMenu> {

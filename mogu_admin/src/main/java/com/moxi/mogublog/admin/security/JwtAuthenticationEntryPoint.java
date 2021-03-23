@@ -18,8 +18,8 @@ import java.util.Map;
 /**
  * jwt 认证进入点 【认证失败处理类 返回未授权】
  *
- * @author 陌溪
- * @date 2020年9月19日10:04:54
+ * @author Ckp_Pro
+ * @date 2021年3月19日10:04:54
  */
 @Component
 public class JwtAuthenticationEntryPoint implements AuthenticationEntryPoint, Serializable {

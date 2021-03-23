@@ -8,8 +8,8 @@ import org.springframework.stereotype.Component;
 /**
  * SpringContextHolder
  *
- * @author 陌溪
- * @date 2020年2月27日08:44:28
+ * @author Ckp_Pro
+ * @date 2021年2月27日08:44:28
  */
 @Component
 public class SpringContextHolder implements ApplicationContextAware {

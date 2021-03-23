@@ -15,7 +15,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * token拦截器
  *
- * @author: 陌溪
+ * @author: Ckp_Pro
  * @create: 2020-06-14-21:55
  */
 public class TokenInterceptor extends HandlerInterceptorAdapter {

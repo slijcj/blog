@@ -7,7 +7,7 @@ import lombok.Data;
 /**
  * 文件实体类
  *
- * @author 陌溪
+ * @author Ckp_Pro
  * @date 2018-09-17
  */
 @TableName("t_file")

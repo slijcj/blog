@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 /**
  * @description: RestApi参数校验异常处理
- * @author: 陌溪
+ * @author: Ckp_Pro
  * @date: 2019年12月4日22:48:18
  */
 @ControllerAdvice

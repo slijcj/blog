@@ -10,7 +10,7 @@ import us.codecraft.webmagic.scheduler.QueueScheduler;
 /**
  * 图片定时任务类
  *
- * @author 陌溪
+ * @author Ckp_Pro
  * @date 2021年1月8日20:41:35
  */
 //@Component

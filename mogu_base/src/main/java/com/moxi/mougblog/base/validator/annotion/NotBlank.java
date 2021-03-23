@@ -14,7 +14,7 @@ import static java.lang.annotation.ElementType.*;
 /**
  * 判断字符串是否为空【注解】
  *
- * @author: 陌溪
+ * @author: Ckp_Pro
  * @date: 2019年12月4日13:12:52
  */
 @Target({TYPE, ANNOTATION_TYPE, FIELD})

@@ -28,8 +28,8 @@ import java.util.List;
 /**
  * 专题表 RestApi
  *
- * @author 陌溪
- * @date 2020年8月23日08:12:54
+ * @author Ckp_Pro
+ * @date 2021年2月23日08:12:54
  */
 @Api(value = "专题相关接口", tags = {"专题相关接口"})
 @RestController

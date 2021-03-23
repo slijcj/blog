@@ -11,7 +11,7 @@ import java.util.Map;
 /**
  * Web访问记录 服务类
  *
- * @author 陌溪
+ * @author Ckp_Pro
  * @date 2018年12月8日09:42:05
  */
 public interface WebVisitService extends SuperService<WebVisit> {

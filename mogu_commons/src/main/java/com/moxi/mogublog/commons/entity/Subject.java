@@ -12,7 +12,7 @@ import java.util.List;
  * 专题表
  * </p>
  *
- * @author 陌溪
+ * @author Ckp_Pro
  * @since 2020年8月22日21:56:18
  */
 @Data

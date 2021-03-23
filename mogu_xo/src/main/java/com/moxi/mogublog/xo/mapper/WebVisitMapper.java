@@ -11,7 +11,7 @@ import java.util.Map;
 /**
  * Web访问记录表 Mapper 接口
  *
- * @author 陌溪
+ * @author Ckp_Pro
  * @date 2018年12月8日09:43:25
  */
 public interface WebVisitMapper extends SuperMapper<WebVisit> {
