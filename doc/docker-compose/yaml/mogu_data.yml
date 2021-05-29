@@ -2,7 +2,7 @@ version: '3'
 services:
   #授权服务
   mogu_data:
-    image: registry.cn-shenzhen.aliyuncs.com/mogublog/nginx
+    image: registry.cn-hangzhou.aliyuncs.com/mogublog/nginx
     container_name: mogu_data
     restart: always
     ports:

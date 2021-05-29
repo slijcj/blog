@@ -2,7 +2,7 @@ version: '3'
 services:
   #授权服务
   mogu_gateway:
-    image: registry.cn-shenzhen.aliyuncs.com/mogublog/mogu_gateway:latest
+    image: registry.cn-hangzhou.aliyuncs.com/mogublog/mogu_gateway:latest
     container_name: mogu_gateway
     restart: always
     ports:

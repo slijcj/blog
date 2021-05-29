@@ -1,7 +1,7 @@
 version: '3.1'
 services:
   mysql:
-    image: registry.cn-shenzhen.aliyuncs.com/mogublog/mysql
+    image: registry.cn-hangzhou.aliyuncs.com/mogublog/mysql
     restart: always
     container_name: mysql
     environment:

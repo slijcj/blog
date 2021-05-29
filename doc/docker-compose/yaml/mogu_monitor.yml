@@ -2,7 +2,7 @@ version: '3'
 services:
   #授权服务
   mogu_mointor:
-    image: registry.cn-shenzhen.aliyuncs.com/mogublog/mogu_monitor:latest
+    image: registry.cn-hangzhou.aliyuncs.com/mogublog/mogu_monitor:latest
     container_name: mogu_monitor
     restart: always
     ports:

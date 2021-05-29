@@ -2,7 +2,7 @@ version: '3'
 services:
   #授权服务
   mogu_sms:
-    image: registry.cn-shenzhen.aliyuncs.com/mogublog/mogu_sms:latest
+    image: registry.cn-hangzhou.aliyuncs.com/mogublog/mogu_sms:latest
     container_name: mogu_sms
     restart: always
     ports:
