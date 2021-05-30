@@ -105,7 +105,7 @@ jobs:
           cd vue_mogu_admin
           docker build -t registry.cn-hangzhou.aliyuncs.com/ckpblog/blog/vue_mogu_admin .
           cd ..
-
+          echo '=====开始构建vue_mogu_web====='
           cd vue_mogu_web
           docker build -t registry.cn-hangzhou.aliyuncs.com/ckpblog/blog/vue_mogu_web .
           cd ..
