@@ -1,4 +1,4 @@
-FROM registry.cn-hanghzou.aliyuncs.com/ckpblog/nginx:latest
+FROM registry.cn-hanghzou.aliyuncs.com/ckpblog/blog/nginx:latest
 ADD ./dist/ /usr/share/nginx/html
 RUN sed -i 's/\r$//' /usr/share/nginx/html/env.sh
 RUN chmod +x /usr/share/nginx/html/env.sh
