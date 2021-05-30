@@ -112,53 +112,45 @@ jobs:
 
           echo '=====镜像构建结束====='
 
-      # 登录到 阿里云镜像服务，使用 GitHub secrets 传入账号密码，密码被加密存储在 GitHub 服务器
-      - name: Login to Aliyun
+      # 登录到 dockerhub，使用 GitHub secrets 传入账号密码，密码被加密存储在 GitHub 服务器
+      - name: Login to DockerHub
         uses: docker/login-action@v1
         with:
-          registry: registry.cn-hangzhou.aliyuncs.com
-          username: ${{ secrets.ALIYUN_USER_NAME }}
-          password: ${{ secrets.ALIYUN_PASSWORD }}
-
-#      # 登录到 dockerhub，使用 GitHub secrets 传入账号密码，密码被加密存储在 GitHub 服务器
-#      - name: Login to DockerHub
-#          uses: docker/login-action@v1
-#          with:
-#            username: ${{ secrets.DOCKER_HUB_USER_NAME }}
-#            password: ${{ secrets.DOCKER_HUB_PASSWORD }}
+          username: ${{ secrets.DOCKER_HUB_USER_NAME }}
+          password: ${{ secrets.DOCKER_HUB_PASSWORD }}
 
       - name: Push Docker Image
         run: |
           echo '=====开始上传镜像====='
           echo '=====开始上传mogu_admin====='
-          docker push registry.cn-hangzhou.aliyuncs.com/ckpblog/mogu_admin
+          docker push 2834880181/mogu_admin
 
           echo '=====开始上传mogu_gateway====='
-          docker push registry.cn-hangzhou.aliyuncs.com/ckpblog/mogu_gateway
+          docker push 2834880181/mogu_gateway
 
           echo '=====开始上传mogu_monitor====='
-          docker push registry.cn-hangzhou.aliyuncs.com/ckpblog/mogu_monitor
+          docker push 2834880181/mogu_monitor
 
           echo '=====开始上传mogu_picture====='
-          docker push registry.cn-hangzhou.aliyuncs.com/ckpblog/mogu_picture
+          docker push 2834880181/mogu_picture
 
           echo '=====开始上传mogu_search====='
-          docker push registry.cn-hangzhou.aliyuncs.com/ckpblog/mogu_search
+          docker push 2834880181/mogu_search
 
           echo '=====开始上传mogu_sms====='
-          docker push registry.cn-hangzhou.aliyuncs.com/ckpblog/mogu_sms
+          docker push 2834880181/mogu_sms
 
           echo '=====开始上传mogu_spider====='
-          docker push registry.cn-hangzhou.aliyuncs.com/ckpblog/mogu_spider
+          docker push 2834880181/mogu_spider
 
           echo '=====开始上传mogu_web====='
-          docker push registry.cn-hangzhou.aliyuncs.com/ckpblog/mogu_web
+          docker push 2834880181/mogu_web
 
           echo '=====开始上传vue_mogu_admin====='
-          docker push registry.cn-hangzhou.aliyuncs.com/ckpblog/vue_mogu_admin
+          docker push 2834880181/vue_mogu_admin
 
           echo '=====开始上传vue_mogu_web====='
-          docker push registry.cn-hangzhou.aliyuncs.com/ckpblog/vue_mogu_web
+          docker push 2834880181/vue_mogu_web
 
           echo '=====镜像上传结束====='
 
