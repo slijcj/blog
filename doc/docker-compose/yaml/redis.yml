@@ -1,7 +1,7 @@
 version: '3.1'
 services:
   redis:
-    image: registry.cn-shenzhen.aliyuncs.com/mogublog/redis
+    image: registry.cn-hangzhou.aliyuncs.com/ckpblog/redis
     restart: always
     container_name: redis
     ports:

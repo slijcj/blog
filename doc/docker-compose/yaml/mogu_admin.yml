@@ -2,7 +2,7 @@ version: '3'
 services:
   #授权服务
   mogu_admin:
-    image: registry.cn-shenzhen.aliyuncs.com/mogublog/mogu_admin:latest
+    image: registry.cn-hangzhou.aliyuncs.com/ckpblog/mogu_admin:latest
     container_name: mogu_admin
     restart: always
     ports:

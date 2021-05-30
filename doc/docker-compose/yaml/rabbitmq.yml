@@ -2,7 +2,7 @@ version: '3.1'
 services:
   rabbitmq:
     restart: always
-    image: registry.cn-shenzhen.aliyuncs.com/mogublog/rabbitmq
+    image: registry.cn-hangzhou.aliyuncs.com/ckpblog/rabbitmq
     container_name: rabbitmq
     ports:
       - 5672:5672
