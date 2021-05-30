@@ -103,11 +103,11 @@ jobs:
           echo '=====开始构建镜像====='
           echo '=====开始构建vue_mogu_admin====='
           cd vue_mogu_admin
-          docker build -t registry.cn-shenzhen.aliyuncs.com/mogublog/vue_mogu_admin .
+          docker build -t registry.cn-hangzhou.aliyuncs.com/ckpblog/vue_mogu_admin .
           cd ..
           echo '=====开始构建vue_mogu_web====='
           cd vue_mogu_web
-          docker build -t registry.cn-shenzhen.aliyuncs.com/mogublog/vue_mogu_web .
+          docker build -t registry.cn-hangzhou.aliyuncs.com/ckpblog/vue_mogu_web .
           cd ..
 
           echo '=====镜像构建结束====='

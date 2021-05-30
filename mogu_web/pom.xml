@@ -134,7 +134,7 @@
                 <version>1.2.0</version>
                 <configuration>
                     <!-- 注意imageName一定要是符合正则[a-z0-9-_.]的，否则构建不会成功 -->
-                    <imageName>registry.cn-hangzhou.aliyuncs.com/ckpblog/blog/${project.artifactId}</imageName>
+                    <imageName>registry.cn-hangzhou.aliyuncs.com/ckpblog/${project.artifactId}</imageName>
                     <dockerDirectory>${project.basedir}/src/main/resources</dockerDirectory>
                     <rm>true</rm>
                     <resources>
