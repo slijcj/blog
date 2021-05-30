@@ -1,7 +1,7 @@
 version: '3'
 services:
   elk:
-    image: registry.cn-hangzhou.aliyuncs.com/ckpblog/elk
+    image: registry.cn-hangzhou.aliyuncs.com/ckpblog/blog/elk
     container_name: elk
     restart: "always"
     ports:
@@ -24,7 +24,7 @@ services:
       - mogu
 
   filebeat:
-    image: registry.cn-hangzhou.aliyuncs.com/ckpblog/filebeat
+    image: registry.cn-hangzhou.aliyuncs.com/ckpblog/blog/filebeat
     container_name: filebeat
     restart: always
     networks:

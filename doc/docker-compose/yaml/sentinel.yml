@@ -1,7 +1,7 @@
 version: '3.1'
 services:
   sentinel:
-    image: registry.cn-hangzhou.aliyuncs.com/ckpblog/sentinel
+    image: registry.cn-hangzhou.aliyuncs.com/ckpblog/blog/sentinel
     restart: always
     container_name: sentinel
     ports:

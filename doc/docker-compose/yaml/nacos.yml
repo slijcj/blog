@@ -1,7 +1,7 @@
 version: '3.1'
 services:
   nacos:
-    image: registry.cn-hangzhou.aliyuncs.com/ckpblog/nacos-server
+    image: registry.cn-hangzhou.aliyuncs.com/ckpblog/blog/nacos-server
     container_name: nacos
     env_file:
       - ./nacos/nacos-config.env

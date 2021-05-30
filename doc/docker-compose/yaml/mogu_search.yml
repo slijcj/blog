@@ -2,7 +2,7 @@ version: '3'
 services:
   #授权服务
   mogu_search:
-    image: registry.cn-hangzhou.aliyuncs.com/ckpblog/mogu_search:latest
+    image: registry.cn-hangzhou.aliyuncs.com/ckpblog/blog/mogu_search:latest
     container_name: mogu_search
     restart: always
     ports:
