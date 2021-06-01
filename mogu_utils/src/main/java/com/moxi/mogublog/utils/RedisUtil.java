@@ -20,7 +20,7 @@ import java.util.concurrent.TimeUnit;
  *
  * @author WangFan
  * @version 1.1 (GitHub文档: https://github.com/whvcse/RedisUtil )
- * @date 2018-02-24 下午03:09:50
+ * @date 2021-02-24 下午03:09:50
  */
 @Component
 public class RedisUtil {

@@ -12,7 +12,7 @@ import springfox.documentation.oas.annotations.EnableOpenApi;
 
 /**
  * @author Ckp_Pro
- * @date 2021年1月10日21:08:23
+ * @date 2021年4月10日21:08:23
  */
 @SpringBootApplication(exclude = {DataSourceAutoConfiguration.class, RedisAutoConfiguration.class,
         RedisRepositoriesAutoConfiguration.class})

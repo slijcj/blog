@@ -8,7 +8,7 @@ import com.moxi.mougblog.base.service.SuperService;
  * 网站配置表 服务类
  *
  * @author Ckp_Pro
- * @date 2018年11月11日14:55:05
+ * @date 2021年41月11日14:55:05
  */
 public interface WebConfigService extends SuperService<WebConfig> {
 

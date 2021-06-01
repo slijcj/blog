@@ -15,7 +15,7 @@ import java.util.Map;
  * 门户页导航栏 服务类
  *
  * @author Ckp_Pro
- * @date 2021年2月22日17:02:38
+ * @date 2021年4月22日17:02:38
  */
 public interface WebNavbarService extends SuperService<WebNavbar> {
 

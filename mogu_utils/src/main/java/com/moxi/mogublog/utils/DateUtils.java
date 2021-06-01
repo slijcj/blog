@@ -3,7 +3,7 @@ package com.moxi.mogublog.utils;
  * 时间操作工具类
  *
  * @author Ckp_Pro
- * 2018年5月8日 上午9:20:33
+ * 2021年4月8日 上午9:20:33
  */
 
 import org.slf4j.Logger;
@@ -65,7 +65,7 @@ public class DateUtils {
     /**
      * @return
      * @author Ckp_Pro
-     * @date 2018年6月14日
+     * @date 2021年5月14日
      */
     public static String getNowTimeFormat() {
         SimpleDateFormat formate = new SimpleDateFormat("yyyy_MM_dd_HH_mm_ss");

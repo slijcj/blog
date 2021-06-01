@@ -10,7 +10,7 @@ import com.moxi.mougblog.base.mapper.SuperMapper;
  * </p>
  *
  * @author xuzhixiang
- * @since 2018-09-17
+ * @since 2021-09-17
  */
 public interface BlogSpiderMapper extends SuperMapper<BlogSpider> {
 

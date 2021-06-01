@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestParam;
  * 后端服务feign远程调用
  *
  * @author Ckp_Pro
- * @date 2021年1月21日22:19:10
+ * @date 2021年4月21日22:19:10
  */
 
 @FeignClient(name = "mogu-web", configuration = FeignConfiguration.class)

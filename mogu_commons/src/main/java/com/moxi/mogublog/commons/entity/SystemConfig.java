@@ -10,7 +10,7 @@ import lombok.Data;
  * 系统配置表
  *
  * @author Ckp_Pro
- * @since 2020年1月21日09:02:29
+ * @since 2021年4月21日09:02:29
  */
 @Data
 @TableName("t_system_config")

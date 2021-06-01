@@ -16,7 +16,7 @@ import java.io.PrintWriter;
  * 异常处理类【全局异常处理】
  *
  * @author Ckp_Pro
- * @date 2019年12月4日22:48:08
+ * @date 2021年42月4日22:48:08
  */
 @Slf4j
 public class HandlerExceptionResolver implements org.springframework.web.servlet.HandlerExceptionResolver {

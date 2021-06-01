@@ -6,7 +6,7 @@ import lombok.Data;
 
 /**
  * @author: 存储信息实体类
- * @create: 2020年6月13日17:03:02
+ * @create: 2021年5月13日17:03:02
  */
 @TableName("t_storage")
 @Data

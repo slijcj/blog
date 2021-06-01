@@ -10,7 +10,7 @@ import java.util.Collection;
  * SpringSecurity中的用户实体类
  *
  * @author Ckp_Pro
- * @date 2021年3月19日21:43:47
+ * @date 2021年4月19日21:43:47
  */
 public class SecurityUser implements UserDetails {
     /**

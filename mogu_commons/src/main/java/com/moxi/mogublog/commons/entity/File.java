@@ -8,7 +8,7 @@ import lombok.Data;
  * 文件实体类
  *
  * @author Ckp_Pro
- * @date 2018-09-17
+ * @date 2021-09-17
  */
 @TableName("t_file")
 @Data

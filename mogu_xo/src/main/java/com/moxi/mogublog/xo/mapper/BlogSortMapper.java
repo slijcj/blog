@@ -9,7 +9,7 @@ import com.moxi.mougblog.base.mapper.SuperMapper;
  * </p>
  *
  * @author xuzhixiang
- * @since 2018年9月24日15:15:44
+ * @since 2021年3月24日15:15:44
  */
 public interface BlogSortMapper extends SuperMapper<BlogSort> {
 

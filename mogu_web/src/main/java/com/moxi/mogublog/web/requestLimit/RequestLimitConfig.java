@@ -9,7 +9,7 @@ import org.springframework.stereotype.Component;
  * RequestLimitConfig
  *
  * @author: Ckp_Pro
- * @create: 2020-03-06-18:58
+ * @create: 2021-03-06-18:58
  */
 @RefreshScope
 @ConfigurationProperties(prefix = "request-limit")

@@ -6,7 +6,7 @@ import com.moxi.mougblog.base.global.BaseSQLConf;
  * SQL字段常量
  *
  * @author Ckp_Pro
- * @date 2018年10月20日15:13:09
+ * @date 2021年40月20日15:13:09
  */
 public final class SQLConf extends BaseSQLConf {
 

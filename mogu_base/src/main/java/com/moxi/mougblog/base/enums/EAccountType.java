@@ -4,7 +4,7 @@ package com.moxi.mougblog.base.enums;
  * 社交账号类型枚举类
  *
  * @Author: Ckp_Pro
- * @Date: 2020年2月12日11:59:04
+ * @Date: 2021年4月12日11:59:04
  */
 public enum EAccountType {
 

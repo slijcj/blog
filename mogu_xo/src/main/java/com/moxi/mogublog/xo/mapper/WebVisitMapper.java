@@ -12,7 +12,7 @@ import java.util.Map;
  * Web访问记录表 Mapper 接口
  *
  * @author Ckp_Pro
- * @date 2018年12月8日09:43:25
+ * @date 2021年42月8日09:43:25
  */
 public interface WebVisitMapper extends SuperMapper<WebVisit> {
 

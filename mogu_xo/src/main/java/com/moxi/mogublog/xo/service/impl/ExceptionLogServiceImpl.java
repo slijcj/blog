@@ -22,7 +22,7 @@ import org.springframework.stereotype.Service;
  * 操作日志 服务实现类
  *
  * @author limbo
- * @date 2018-09-30
+ * @date 2021-09-30
  */
 @Service
 public class ExceptionLogServiceImpl extends SuperServiceImpl<ExceptionLogMapper, ExceptionLog> implements ExceptionLogService {

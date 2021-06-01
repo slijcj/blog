@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestParam;
  * 搜索服务feign远程调用
  *
  * @author Ckp_Pro
- * @date 2021年3月6日09:08:13
+ * @date 2021年4月6日09:08:13
  */
 @FeignClient(name = "mogu-search", configuration = FeignConfiguration.class, fallback = SearchFeignFallback.class)
 public interface SearchFeignClient {

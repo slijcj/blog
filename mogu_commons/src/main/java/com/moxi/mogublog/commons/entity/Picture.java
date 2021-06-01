@@ -9,7 +9,7 @@ import lombok.Data;
  * 图片实体类
  *
  * @author xuzhixiang
- * @date 2018年9月17日16:08:58
+ * @date 2021年3月17日16:08:58
  */
 @Data
 @TableName("t_picture")

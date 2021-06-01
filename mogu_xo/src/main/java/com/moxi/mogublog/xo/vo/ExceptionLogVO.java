@@ -9,7 +9,7 @@ import lombok.Data;
  * </p>
  *
  * @author Ckp_Pro
- * @since 2020年4月7日11:45:40
+ * @since 2021年4月7日11:45:40
  */
 @Data
 public class ExceptionLogVO extends BaseVO<ExceptionLogVO> {

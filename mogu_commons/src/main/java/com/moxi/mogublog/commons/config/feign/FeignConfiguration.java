@@ -9,7 +9,7 @@ import org.springframework.context.annotation.Configuration;
  * Feign配置文件【配置SpringSecurity校验、Feign拦截器】
  *
  * @author Ckp_Pro
- * @date 2021年3月6日16:21:11
+ * @date 2021年4月6日16:21:11
  */
 @Configuration
 public class FeignConfiguration {

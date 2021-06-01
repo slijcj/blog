@@ -4,7 +4,7 @@ package com.moxi.mougblog.base.global;
  * 字符常量
  *
  * @author: Ckp_Pro
- * @date: 2019年12月4日22:47:53
+ * @date: 2021年42月4日22:47:53
  */
 public class Constants {
 

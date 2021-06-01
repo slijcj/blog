@@ -26,7 +26,7 @@ import java.util.stream.Collectors;
  * ElasticSearch RestAPI
  *
  * @author: Ckp_Pro
- * @create: 2020年1月15日16:26:16
+ * @create: 2021年4月15日16:26:16
  */
 @RequestMapping("/search")
 @Api(value = "ElasticSearch相关接口", tags = {"ElasticSearch相关接口"})

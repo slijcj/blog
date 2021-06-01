@@ -24,7 +24,7 @@ import java.util.Map;
  * json解析的工具类
  *
  * @author Ckp_Pro
- * 2018年5月7日 下午5:21:23
+ * 2021年4月7日 下午5:21:23
  */
 public class JsonUtils {
 
@@ -36,7 +36,7 @@ public class JsonUtils {
      * 把对象转换为json数据
      *
      * @param obj
-     * @return 2018年5月7日  下午5:27:16
+     * @return 2021年4月7日  下午5:27:16
      */
     public static String objectToJson(Object obj) {
         Gson gson = new GsonBuilder().setDateFormat("yyyy-MM-dd HH:mm:ss").create();

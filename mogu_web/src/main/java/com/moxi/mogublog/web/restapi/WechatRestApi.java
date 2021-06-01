@@ -20,7 +20,7 @@ import org.springframework.web.bind.annotation.RestController;
  * 微信公众号 RestApi
  *
  * @author Ckp_Pro
- * @date 2018年11月12日14:51:54
+ * @date 2021年41月12日14:51:54
  */
 @RestController
 @RequestMapping("/wechat")

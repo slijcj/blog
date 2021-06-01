@@ -7,7 +7,7 @@ import lombok.Data;
  * CommentVO
  *
  * @author: Ckp_Pro
- * @create: 2020年1月11日16:15:52
+ * @create: 2021年4月11日16:15:52
  */
 @Data
 public class StorageVO extends BaseVO<StorageVO> {

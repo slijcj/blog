@@ -9,7 +9,7 @@ import org.springframework.stereotype.Component;
  * 搜索服务降级兜底方法【当服务不可用时会触发】
  *
  * @author: Ckp_Pro
- * @create: 2020年10月6日09:03:19
+ * @create: 2021年40月6日09:03:19
  */
 @Component
 @Slf4j

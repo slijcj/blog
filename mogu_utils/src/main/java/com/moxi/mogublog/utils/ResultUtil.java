@@ -7,7 +7,7 @@ import java.util.Map;
  * 返回统一接口
  *
  * @author Ckp_Pro
- * 2018年9月9日19:22:20
+ * 2021年3月9日19:22:20
  */
 public class ResultUtil {
     final static String CODE = "code";

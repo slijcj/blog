@@ -13,7 +13,7 @@ import lombok.Data;
  * </p>
  *
  * @author Ckp_Pro
- * @since 2020年2月15日21:20:03
+ * @since 2021年4月15日21:20:03
  */
 @Data
 public class SysDictTypeVO extends BaseVO<SysDictTypeVO> {

@@ -4,7 +4,7 @@ package com.moxi.mougblog.base.enums;
  * 开启状态枚举类
  *
  * @author Ckp_Pro
- * @date 2021年3月7日16:42:29
+ * @date 2021年4月7日16:42:29
  */
 public class EOpenStatus {
     /**

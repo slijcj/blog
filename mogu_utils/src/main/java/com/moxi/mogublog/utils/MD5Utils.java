@@ -10,7 +10,7 @@ import java.security.NoSuchAlgorithmException;
  * MD5工具类
  *
  * @author xzx19950624@qq.com
- * @date 2017年9月24日16:40:20
+ * @date 2021年3月24日16:40:20
  */
 public class MD5Utils {
     private static Logger logger = LoggerFactory.getLogger(MD5Utils.class);
@@ -21,7 +21,7 @@ public class MD5Utils {
      * @param inStr
      * @return
      * @author xuzhixiang
-     * @date 2017年9月24日17:22:13
+     * @date 2021年3月24日17:22:13
      */
     public static String string2MD5(String inStr) {
         MessageDigest md5;

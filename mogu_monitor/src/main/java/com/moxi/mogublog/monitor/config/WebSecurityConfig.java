@@ -12,7 +12,7 @@ import org.springframework.security.web.csrf.CookieCsrfTokenRepository;
  * WebSecurityConfig
  *
  * @author: Ckp_Pro
- * @create: 2019-12-21-19:20
+ * @create: 2021-12-21-19:20
  */
 @Configuration
 @EnableWebSecurity

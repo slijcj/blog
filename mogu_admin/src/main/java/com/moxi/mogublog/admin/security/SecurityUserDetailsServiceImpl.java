@@ -20,7 +20,7 @@ import java.util.List;
  * 将SpringSecurity中的用户管理和数据库的管理员对应起来
  *
  * @author Ckp_Pro
- * @date 2020/9/14 10:43
+ * @date 2021/9/14 10:43
  */
 @Service
 public class SecurityUserDetailsServiceImpl implements UserDetailsService {

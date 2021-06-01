@@ -10,7 +10,7 @@ import java.util.List;
  * 七牛云服务类
  *
  * @author Ckp_Pro
- * @since 2020年1月20日20:04:51
+ * @since 2021年4月20日20:04:51
  */
 public interface QiniuService {
 

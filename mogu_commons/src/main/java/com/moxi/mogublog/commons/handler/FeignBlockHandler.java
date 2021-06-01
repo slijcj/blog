@@ -19,7 +19,7 @@ import java.io.IOException;
  * 全局Sentinel异常处理器
  *
  * @author: Ckp_Pro
- * @date: 2020-10-03-21:56
+ * @date: 2021-10-03-21:56
  */
 @Component
 @Slf4j

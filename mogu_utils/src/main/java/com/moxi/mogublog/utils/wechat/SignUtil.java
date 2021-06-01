@@ -13,7 +13,7 @@ import java.util.Arrays;
 public class SignUtil {
 
     // 与开发模式接口配置信息中的Token保持一致
-    private static String token = "mogu2018";
+    private static String token = "mogu2021";
 
     /**
      * 校验签名

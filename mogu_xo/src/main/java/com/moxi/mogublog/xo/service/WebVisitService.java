@@ -12,7 +12,7 @@ import java.util.Map;
  * Web访问记录 服务类
  *
  * @author Ckp_Pro
- * @date 2018年12月8日09:42:05
+ * @date 2021年42月8日09:42:05
  */
 public interface WebVisitService extends SuperService<WebVisit> {
 
@@ -38,7 +38,7 @@ public interface WebVisitService extends SuperService<WebVisit> {
      * 获取近七天的访问量
      *
      * @return {
-     * date: ["2019-6-20","2019-6-21","2019-6-22","2019-6-23","2019-6-24",,"2019-6-25","2019-6-26"]
+     * date: ["2021-6-20","2021-6-21","2021-6-22","2021-6-23","2021-6-24",,"2021-6-25","2021-6-26"]
      * pv: [10,5,6,7,5,3,2]
      * uv: [5,3,4,4,5,2,1]
      * }

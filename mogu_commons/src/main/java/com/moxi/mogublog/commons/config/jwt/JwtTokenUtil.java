@@ -20,7 +20,7 @@ import java.util.Date;
  * JWT工具类
  *
  * @author Ckp_Pro
- * @date 2020/6/1 18:18
+ * @date 2021/6/1 18:18
  */
 @Component
 public class JwtTokenUtil {

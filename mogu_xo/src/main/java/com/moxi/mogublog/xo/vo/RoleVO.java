@@ -12,7 +12,7 @@ import lombok.Data;
  * </p>
  *
  * @author Ckp_Pro
- * @since 2019年12月20日16:47:02
+ * @since 2021年42月20日16:47:02
  */
 @Data
 public class RoleVO extends BaseVO<RoleVO> {

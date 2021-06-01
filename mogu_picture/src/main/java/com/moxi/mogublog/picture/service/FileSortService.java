@@ -9,7 +9,7 @@ import com.moxi.mougblog.base.service.SuperService;
  * </p>
  *
  * @author Ckp_Pro
- * @since 2018-09-17
+ * @since 2021-09-17
  */
 public interface FileSortService extends SuperService<FileSort> {
 

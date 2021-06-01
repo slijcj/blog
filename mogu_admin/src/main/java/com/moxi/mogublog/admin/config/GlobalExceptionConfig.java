@@ -8,7 +8,7 @@ import org.springframework.context.annotation.Configuration;
  * 全局异常处理配置
  *
  * @author Ckp_Pro
- * @date 2021年3月4日10:44:17
+ * @date 2021年4月4日10:44:17
  */
 @Configuration
 public class GlobalExceptionConfig {

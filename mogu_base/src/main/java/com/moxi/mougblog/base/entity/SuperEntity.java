@@ -17,7 +17,7 @@ import java.util.Date;
  * Entity基类
  *
  * @author Ckp_Pro
- * @date 2018年9月17日09:47:12
+ * @date 2021年3月17日09:47:12
  */
 @Data
 @SuppressWarnings("rawtypes")

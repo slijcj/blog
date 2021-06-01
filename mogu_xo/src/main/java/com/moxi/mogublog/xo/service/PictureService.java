@@ -11,7 +11,7 @@ import java.util.List;
  * 图片表 服务类
  *
  * @author Ckp_Pro
- * @date 2018年9月17日16:17:22
+ * @date 2021年3月17日16:17:22
  */
 public interface PictureService extends SuperService<Picture> {
 

@@ -11,7 +11,7 @@ import java.util.List;
  * 评论表 服务类
  *
  * @author Ckp_Pro
- * @date 2018-09-08
+ * @date 2021-09-08
  */
 public interface CommentService extends SuperService<Comment> {
 
@@ -19,7 +19,7 @@ public interface CommentService extends SuperService<Comment> {
      * 获取评论数目
      *
      * @author xzx19950624@qq.com
-     * @date 2018年10月22日下午3:43:38
+     * @date 2021年40月22日下午3:43:38
      */
     public Integer getCommentCount(int status);
 

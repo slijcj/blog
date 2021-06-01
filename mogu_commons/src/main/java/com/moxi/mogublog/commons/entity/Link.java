@@ -11,7 +11,7 @@ import java.util.List;
  * 友情链接表
  *
  * @author Ckp_Pro
- * @since 2018年9月26日09:54:43
+ * @since 2021年3月26日09:54:43
  */
 @Data
 @TableName("t_link")

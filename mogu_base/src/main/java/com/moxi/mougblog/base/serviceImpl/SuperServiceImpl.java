@@ -10,7 +10,7 @@ import com.moxi.mougblog.base.service.SuperService;
  *
  * @param <T>
  * @author Ckp_Pro
- * @date 2018年9月4日10:38:18
+ * @date 2021年3月4日10:38:18
  */
 
 public class SuperServiceImpl<M extends SuperMapper<T>, T> extends ServiceImpl<M, T> implements SuperService<T> {

@@ -7,7 +7,7 @@ import java.util.regex.Pattern;
  * 校验工具类
  *
  * @author Ckp_Pro
- * @date 2018年2月8日17:21:50
+ * @date 2021年4月8日17:21:50
  */
 public class CheckUtils {
 

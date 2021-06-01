@@ -15,7 +15,7 @@ import static java.lang.annotation.ElementType.*;
  * 判断是否为数字【注解】
  *
  * @author Ckp_Pro
- * @date 2019年12月4日13:14:24
+ * @date 2021年42月4日13:14:24
  */
 @Target({TYPE, ANNOTATION_TYPE, FIELD})
 @Retention(RetentionPolicy.RUNTIME)

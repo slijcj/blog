@@ -9,7 +9,7 @@ import java.io.Serializable;
  * 自定义登录相关的异常
  *
  * @author Ckp_Pro
- * @date 2021年3月9日16:41:32
+ * @date 2021年4月9日16:41:32
  */
 public class LoginException extends RuntimeException implements Serializable {
 

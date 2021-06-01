@@ -31,7 +31,7 @@ import java.util.*;
  * </p>
  *
  * @author Ckp_Pro
- * @since 2020年2月15日21:09:15
+ * @since 2021年4月15日21:09:15
  */
 @Service
 public class SysDictTypeServiceImpl extends SuperServiceImpl<SysDictTypeMapper, SysDictType> implements SysDictTypeService {

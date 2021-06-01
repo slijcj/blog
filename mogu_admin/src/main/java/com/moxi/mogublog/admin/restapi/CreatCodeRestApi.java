@@ -27,7 +27,7 @@ import java.util.Map;
  * 验证码服务RestApi
  *
  * @author limbo
- * @since 2018-10-22
+ * @since 2021-10-22
  */
 @RestController
 @RefreshScope
@@ -77,7 +77,7 @@ public class CreatCodeRestApi {
                         "<div class=\"email-body\" style=\"background-color: rgb(246, 244, 236);\">\r\n" +
                         "<div class=\"container\">\r\n" +
                         "<div class=\"logo\">\r\n" +
-                        "<img src=\"http://picture.moguit.cn/blog/admin/jpg/2018/10/21/logo.jpg\",height=\"100\" width=\"100\">\r\n" +
+                        "<img src=\"http://picture.moguit.cn/blog/admin/jpg/2021/10/21/logo.jpg\",height=\"100\" width=\"100\">\r\n" +
                         "</div>\r\n" +
                         "<div class=\"panel\" style=\"background-color: rgb(246, 244, 236);\">\r\n" +
                         "<div class=\"panel-header\" style=\"background-color: rgb(246, 244, 236);\">\r\n" +

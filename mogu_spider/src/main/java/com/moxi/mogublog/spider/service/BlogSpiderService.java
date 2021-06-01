@@ -9,7 +9,7 @@ import com.moxi.mougblog.base.service.SuperService;
  * </p>
  *
  * @author Ckp_Pro
- * @since 2020年2月7日21:28:51
+ * @since 2021年4月7日21:28:51
  */
 public interface BlogSpiderService extends SuperService<BlogSpider> {
 

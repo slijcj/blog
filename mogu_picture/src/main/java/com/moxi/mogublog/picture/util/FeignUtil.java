@@ -28,7 +28,7 @@ import java.util.concurrent.TimeUnit;
  * Feign操作工具类
  *
  * @author: Ckp_Pro
- * @create: 2020-02-29-15:39
+ * @create: 2021-02-29-15:39
  */
 @Slf4j
 @Component

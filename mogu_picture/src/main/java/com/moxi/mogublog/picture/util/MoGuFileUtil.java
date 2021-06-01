@@ -14,7 +14,7 @@ import java.util.List;
  * 蘑菇文件操作
  *
  * @author: Ckp_Pro
- * @create: 2020-06-16-9:33
+ * @create: 2021-06-16-9:33
  */
 @Slf4j
 public class MoGuFileUtil {
@@ -172,7 +172,7 @@ public class MoGuFileUtil {
 
     public static void main(String[] args) {
         // 删除单个文件
-        String file = "D:\\mogu_blog\\data\\blog\\admin\\webp\\2020\\6\\15\\123.txt";
+        String file = "D:\\mogu_blog\\data\\blog\\admin\\webp\\2021\\6\\15\\123.txt";
         MoGuFileUtil.deleteFile(file);
         System.out.println();
 

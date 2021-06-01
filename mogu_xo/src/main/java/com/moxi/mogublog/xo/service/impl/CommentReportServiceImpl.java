@@ -10,7 +10,7 @@ import org.springframework.stereotype.Service;
  * 评论举报表 服务实现类
  *
  * @author Ckp_Pro
- * @date 2021年1月12日15:47:47
+ * @date 2021年4月12日15:47:47
  */
 @Service
 public class CommentReportServiceImpl extends SuperServiceImpl<CommentReportMapper, CommentReport> implements CommentReportService {

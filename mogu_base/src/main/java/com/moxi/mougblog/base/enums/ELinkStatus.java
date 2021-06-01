@@ -4,7 +4,7 @@ package com.moxi.mougblog.base.enums;
  * 友链状态枚举类
  *
  * @Author: Ckp_Pro
- * @Date: 2020年3月15日09:00:34
+ * @Date: 2021年4月15日09:00:34
  */
 public class ELinkStatus {
 

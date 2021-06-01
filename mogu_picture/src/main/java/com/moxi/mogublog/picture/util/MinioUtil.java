@@ -21,7 +21,7 @@ import java.util.List;
  * 本地对象存储服务 Minio上传工具类
  *
  * @author: Ckp_Pro
- * @create: 2020-10-19-10:22
+ * @create: 2021-10-19-10:22
  */
 @Component
 @Slf4j

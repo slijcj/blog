@@ -11,7 +11,7 @@ import lombok.Data;
  * 门户页导航栏VO
  *
  * @author Ckp_Pro
- * @since 2021年2月22日16:51:14
+ * @since 2021年4月22日16:51:14
  */
 @Data
 public class WebNavbarVO extends BaseVO<WebNavbarVO> {

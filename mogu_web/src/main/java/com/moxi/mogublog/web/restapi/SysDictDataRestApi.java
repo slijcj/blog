@@ -16,7 +16,7 @@ import java.util.List;
  * 字典数据查询 RestApi
  *
  * @author Ckp_Pro
- * @since 2020年3月11日10:37:13
+ * @since 2021年4月11日10:37:13
  */
 @RestController
 @RequestMapping("/sysDictData")

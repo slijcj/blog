@@ -9,7 +9,7 @@ import com.moxi.mougblog.base.service.SuperService;
  * 操作异常日志 服务类
  *
  * @author limbo
- * @date 2018-09-30
+ * @date 2021-09-30
  */
 public interface ExceptionLogService extends SuperService<ExceptionLog> {
 

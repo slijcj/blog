@@ -11,7 +11,7 @@ import java.util.List;
  * 相册分类实体类
  *
  * @author xuzhixiang
- * @date 2018年9月17日16:10:38
+ * @date 2021年3月17日16:10:38
  */
 @Data
 @TableName("t_picture_sort")

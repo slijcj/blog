@@ -19,7 +19,7 @@ import org.springframework.web.bind.annotation.*;
  * 网站配置表 RestApi
  *
  * @author Ckp_Pro
- * @date 2018年11月11日15:19:28
+ * @date 2021年41月11日15:19:28
  */
 @Api(value = "网站配置相关接口", tags = {"网站配置相关接口"})
 @RestController

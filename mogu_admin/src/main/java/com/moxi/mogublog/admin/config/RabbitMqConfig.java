@@ -9,7 +9,7 @@ import org.springframework.context.annotation.Configuration;
  * RabbitMQ配置类
  *
  * @author Ckp_Pro
- * @date 2021年3月31日21:26:43
+ * @date 2021年4月31日21:26:43
  */
 @Configuration
 public class RabbitMqConfig {

@@ -4,7 +4,7 @@ package com.moxi.mougblog.base.enums;
  * 推荐等级枚举类
  *
  * @author xuzhixiang
- * @date 2017年10月4日16:34:00
+ * @date 2021年40月4日16:34:00
  */
 public class ELevel {
     /**

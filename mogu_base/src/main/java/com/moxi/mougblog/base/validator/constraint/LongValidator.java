@@ -9,7 +9,7 @@ import javax.validation.ConstraintValidatorContext;
  * 判断Long是否为空【校验器】
  *
  * @author Ckp_Pro
- * @date 2019年12月4日13:16:06
+ * @date 2021年42月4日13:16:06
  */
 public class LongValidator implements ConstraintValidator<LongNotNull, Long> {
 

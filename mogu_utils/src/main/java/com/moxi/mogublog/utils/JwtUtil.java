@@ -15,7 +15,7 @@ import java.util.Date;
  * jwt生成接口
  *
  * @author Ckp_Pro
- * @date 2020/9/14 10:51
+ * @date 2021/9/14 10:51
  */
 @Slf4j
 public class JwtUtil {

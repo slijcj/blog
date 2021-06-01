@@ -13,7 +13,7 @@ import javax.validation.constraints.NotBlank;
  * 图片实体类
  *
  * @author Ckp_Pro
- * @date 2018年9月17日16:08:58
+ * @date 2021年3月17日16:08:58
  */
 @ToString
 @Data

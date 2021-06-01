@@ -16,7 +16,7 @@ import us.codecraft.webmagic.pipeline.Pipeline;
  * 博客传输管道
  *
  * @author Ckp_Pro
- * @date 2021年1月8日16:40:07
+ * @date 2021年4月8日16:40:07
  */
 @Component
 public class BlogPipeline implements Pipeline {

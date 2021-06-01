@@ -7,7 +7,7 @@ import lombok.Data;
  * 图片对象
  *
  * @author Ckp_Pro
- * @date 2021年1月8日16:55:42
+ * @date 2021年4月8日16:55:42
  */
 @Data
 public class PictureSpider extends FileVO {

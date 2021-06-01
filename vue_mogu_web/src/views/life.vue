@@ -18,7 +18,7 @@
         <ul>
           <li class="author"><a href="/">杨青</a></li>
           <li class="lmname"><a href="/">学无止境</a></li>
-          <li class="timer">2018-5-13</li>
+          <li class="timer">2021-5-13</li>
           <li class="view"><span>34567</span>已阅读</li>
           <li class="like">9999</li>
         </ul>
@@ -31,7 +31,7 @@
         <ul>
           <li class="author"><a href="/">杨青</a></li>
           <li class="lmname"><a href="/">学无止境</a></li>
-          <li class="timer">2018-5-13</li>
+          <li class="timer">2021-5-13</li>
           <li class="view">4567已阅读</li>
           <li class="like">9999</li>
         </ul>
@@ -49,7 +49,7 @@
         <ul>
           <li class="author"><a href="/">杨青</a></li>
           <li class="lmname"><a href="/">学无止境</a></li>
-          <li class="timer">2018-5-13</li>
+          <li class="timer">2021-5-13</li>
           <li class="view"><span>34567</span>已阅读</li>
           <li class="like">9999</li>
         </ul>
@@ -63,7 +63,7 @@
         <ul>
           <li class="author"><a href="/">杨青</a></li>
           <li class="lmname"><a href="/">学无止境</a></li>
-          <li class="timer">2018-5-13</li>
+          <li class="timer">2021-5-13</li>
           <li class="view"><span>34567</span>已阅读</li>
           <li class="like">9999</li>
         </ul>
@@ -77,7 +77,7 @@
         <ul>
           <li class="author"><a href="/">杨青</a></li>
           <li class="lmname"><a href="/">学无止境</a></li>
-          <li class="timer">2018-5-13</li>
+          <li class="timer">2021-5-13</li>
           <li class="view"><span>34567</span>已阅读</li>
           <li class="like">9999</li>
         </ul>
@@ -90,7 +90,7 @@
         <ul>
           <li class="author"><a href="/">杨青</a></li>
           <li class="lmname"><a href="/">学无止境</a></li>
-          <li class="timer">2018-5-13</li>
+          <li class="timer">2021-5-13</li>
           <li class="view">4567已阅读</li>
           <li class="like">9999</li>
         </ul>
@@ -108,7 +108,7 @@
         <ul>
           <li class="author"><a href="/">杨青</a></li>
           <li class="lmname"><a href="/">学无止境</a></li>
-          <li class="timer">2018-5-13</li>
+          <li class="timer">2021-5-13</li>
           <li class="view"><span>34567</span>已阅读</li>
           <li class="like">9999</li>
         </ul>
@@ -122,7 +122,7 @@
         <ul>
           <li class="author"><a href="/">杨青</a></li>
           <li class="lmname"><a href="/">学无止境</a></li>
-          <li class="timer">2018-5-13</li>
+          <li class="timer">2021-5-13</li>
           <li class="view"><span>34567</span>已阅读</li>
           <li class="like">9999</li>
         </ul>
@@ -135,7 +135,7 @@
         <ul>
           <li class="author"><a href="/">杨青</a></li>
           <li class="lmname"><a href="/">学无止境</a></li>
-          <li class="timer">2018-5-13</li>
+          <li class="timer">2021-5-13</li>
           <li class="view">4567已阅读</li>
           <li class="like">9999</li>
         </ul>
@@ -153,7 +153,7 @@
         <ul>
           <li class="author"><a href="/">杨青</a></li>
           <li class="lmname"><a href="/">学无止境</a></li>
-          <li class="timer">2018-5-13</li>
+          <li class="timer">2021-5-13</li>
           <li class="view"><span>34567</span>已阅读</li>
           <li class="like">9999</li>
         </ul>
@@ -167,7 +167,7 @@
         <ul>
           <li class="author"><a href="/">杨青</a></li>
           <li class="lmname"><a href="/">学无止境</a></li>
-          <li class="timer">2018-5-13</li>
+          <li class="timer">2021-5-13</li>
           <li class="view"><span>34567</span>已阅读</li>
           <li class="like">9999</li>
         </ul>
@@ -181,7 +181,7 @@
         <ul>
           <li class="author"><a href="/">杨青</a></li>
           <li class="lmname"><a href="/">学无止境</a></li>
-          <li class="timer">2018-5-13</li>
+          <li class="timer">2021-5-13</li>
           <li class="view"><span>34567</span>已阅读</li>
           <li class="like">9999</li>
         </ul>
@@ -194,7 +194,7 @@
         <ul>
           <li class="author"><a href="/">杨青</a></li>
           <li class="lmname"><a href="/">学无止境</a></li>
-          <li class="timer">2018-5-13</li>
+          <li class="timer">2021-5-13</li>
           <li class="view">4567已阅读</li>
           <li class="like">9999</li>
         </ul>
@@ -212,7 +212,7 @@
         <ul>
           <li class="author"><a href="/">杨青</a></li>
           <li class="lmname"><a href="/">学无止境</a></li>
-          <li class="timer">2018-5-13</li>
+          <li class="timer">2021-5-13</li>
           <li class="view"><span>34567</span>已阅读</li>
           <li class="like">9999</li>
         </ul>
@@ -226,7 +226,7 @@
         <ul>
           <li class="author"><a href="/">杨青</a></li>
           <li class="lmname"><a href="/">学无止境</a></li>
-          <li class="timer">2018-5-13</li>
+          <li class="timer">2021-5-13</li>
           <li class="view"><span>34567</span>已阅读</li>
           <li class="like">9999</li>
         </ul>
@@ -239,7 +239,7 @@
         <ul>
           <li class="author"><a href="/">杨青</a></li>
           <li class="lmname"><a href="/">学无止境</a></li>
-          <li class="timer">2018-5-13</li>
+          <li class="timer">2021-5-13</li>
           <li class="view">4567已阅读</li>
           <li class="like">9999</li>
         </ul>
@@ -257,7 +257,7 @@
         <ul>
           <li class="author"><a href="/">杨青</a></li>
           <li class="lmname"><a href="/">学无止境</a></li>
-          <li class="timer">2018-5-13</li>
+          <li class="timer">2021-5-13</li>
           <li class="view"><span>34567</span>已阅读</li>
           <li class="like">9999</li>
         </ul>
@@ -271,7 +271,7 @@
         <ul>
           <li class="author"><a href="/">杨青</a></li>
           <li class="lmname"><a href="/">学无止境</a></li>
-          <li class="timer">2018-5-13</li>
+          <li class="timer">2021-5-13</li>
           <li class="view"><span>34567</span>已阅读</li>
           <li class="like">9999</li>
         </ul>
@@ -306,16 +306,16 @@
       <ul class="sidenews">
         <li> <i><img src="../../static/images/toppic01.jpg"></i>
           <p><a href="/">别让这些闹心的套路，毁了你的网页设计</a></p>
-          <span>2018-05-13</span> </li>
+          <span>2021-05-13</span> </li>
         <li> <i><img src="../../static/images/toppic02.jpg"></i>
           <p><a href="/">给我模板PSD源文件，我给你设计HTML！</a></p>
-          <span>2018-05-13</span> </li>
+          <span>2021-05-13</span> </li>
         <li> <i><img src="../../static/images/v1.jpg"></i>
           <p><a href="/">别让这些闹心的套路，毁了你的网页设计</a></p>
-          <span>2018-05-13</span> </li>
+          <span>2021-05-13</span> </li>
         <li> <i><img src="../../static/images/v2.jpg"></i>
           <p><a href="/">给我模板PSD源文件，我给你设计HTML！</a></p>
-          <span>2018-05-13</span> </li>
+          <span>2021-05-13</span> </li>
       </ul>
     </div>
     <div class="tuijian">
@@ -327,16 +327,16 @@
       <ul class="sidenews">
         <li> <i><img src="../../static/images/toppic01.jpg"></i>
           <p><a href="/">别让这些闹心的套路</a></p>
-          <span>2018-05-13</span> </li>
+          <span>2021-05-13</span> </li>
         <li> <i><img src="../../static/images/toppic02.jpg"></i>
           <p><a href="/">给我模板PSD源文件，我给你设计HTML！</a></p>
-          <span>2018-05-13</span> </li>
+          <span>2021-05-13</span> </li>
         <li> <i><img src="../../static/images/v1.jpg"></i>
           <p><a href="/">别让这些闹心的套路，毁了你的网页设计</a></p>
-          <span>2018-05-13</span> </li>
+          <span>2021-05-13</span> </li>
         <li> <i><img src="../../static/images/v2.jpg"></i>
           <p><a href="/">给我模板PSD源文件，我给你设计HTML！</a></p>
-          <span>2018-05-13</span> </li>
+          <span>2021-05-13</span> </li>
       </ul>
     </div>
     <div class="cloud">

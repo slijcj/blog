@@ -15,7 +15,7 @@ import java.security.Security;
  * uniapp工具类,用于登录解密算法
  *
  * @author: Ckp_Pro
- * @create: 2020-08-11-15:27
+ * @create: 2021-08-11-15:27
  */
 public class UniappUtils {
     //算法名

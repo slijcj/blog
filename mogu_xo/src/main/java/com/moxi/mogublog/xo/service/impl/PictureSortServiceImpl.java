@@ -28,7 +28,7 @@ import java.util.*;
  * 图片分类表 服务实现类
  *
  * @author Ckp_Pro
- * @since 2018-09-04
+ * @since 2021-09-04
  */
 @Service
 public class PictureSortServiceImpl extends SuperServiceImpl<PictureSortMapper, PictureSort> implements PictureSortService {

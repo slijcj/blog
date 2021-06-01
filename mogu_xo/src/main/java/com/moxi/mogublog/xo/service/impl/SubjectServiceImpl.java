@@ -31,7 +31,7 @@ import java.util.*;
  * </p>
  *
  * @author Ckp_Pro
- * @since 2020年8月23日07:58:12
+ * @since 2021年5月23日07:58:12
  */
 @Service
 public class SubjectServiceImpl extends SuperServiceImpl<SubjectMapper, Subject> implements SubjectService {

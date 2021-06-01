@@ -11,7 +11,7 @@ import java.util.List;
  * 字典类型 服务类
  *
  * @author Ckp_Pro
- * @date 2021年2月15日21:06:45
+ * @date 2021年4月15日21:06:45
  */
 public interface SysDictTypeService extends SuperService<SysDictType> {
     /**

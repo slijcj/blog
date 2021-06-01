@@ -7,7 +7,7 @@ import com.moxi.mougblog.base.service.SuperService;
  * 评论举报表 服务类
  *
  * @author Ckp_Pro
- * @date 2021年1月12日15:46:25
+ * @date 2021年4月12日15:46:25
  */
 public interface CommentReportService extends SuperService<CommentReport> {
 

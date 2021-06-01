@@ -11,7 +11,7 @@ import java.util.List;
  * 学习视频表 服务类
  *
  * @author Ckp_Pro
- * @date 2018年10月19日21:26:25
+ * @date 2021年40月19日21:26:25
  */
 public interface StudyVideoService extends SuperService<StudyVideo> {
     /**

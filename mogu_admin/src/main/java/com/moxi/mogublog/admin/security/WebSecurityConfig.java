@@ -21,7 +21,7 @@ import org.springframework.security.web.authentication.UsernamePasswordAuthentic
  * 用于配置哪些请求被拦截，哪些请求可以匿名访问
  *
  * @author Ckp_Pro
- * @date 2021年3月19日10:05:40
+ * @date 2021年4月19日10:05:40
  */
 @Configuration
 @EnableWebSecurity

@@ -11,7 +11,7 @@ import lombok.ToString;
  * 相册分类实体类
  *
  * @author Ckp_Pro
- * @date 2018年9月17日16:10:38
+ * @date 2021年3月17日16:10:38
  */
 @ToString
 @Data

@@ -24,7 +24,7 @@ import org.springframework.stereotype.Service;
  * </p>
  *
  * @author limbo
- * @since 2018-09-30
+ * @since 2021-09-30
  */
 @Service
 public class SysLogServiceImpl extends SuperServiceImpl<SysLogMapper, SysLog> implements SysLogService {

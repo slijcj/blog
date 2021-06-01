@@ -4,7 +4,7 @@ package com.moxi.mougblog.base.global;
  * 常量的基类
  *
  * @author Ckp_Pro
- * @date 2018年9月25日00:06:54
+ * @date 2021年3月25日00:06:54
  */
 public class BaseSysConf {
 

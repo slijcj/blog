@@ -10,7 +10,7 @@ import lombok.Data;
  * </p>
  *
  * @author Ckp_Pro
- * @since 2019年12月18日21:58:18
+ * @since 2021年42月18日21:58:18
  */
 @Data
 public class WebVisitVO extends BaseVO<WebVisitVO> {

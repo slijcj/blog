@@ -3,7 +3,7 @@ package com.moxi.mougblog.base.validator;
 /**
  * 错误消息模板
  * @author Ckp_Pro
- * @date 2021年3月31日21:31:58
+ * @date 2021年4月31日21:31:58
  */
 public interface Messages {
     /**

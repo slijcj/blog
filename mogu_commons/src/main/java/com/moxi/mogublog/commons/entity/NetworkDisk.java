@@ -7,7 +7,7 @@ import lombok.Data;
 
 /**
  * @author: 网盘文件实体类
- * @create: 2020年6月13日17:03:05
+ * @create: 2021年5月13日17:03:05
  */
 @TableName("t_network_disk")
 @Data

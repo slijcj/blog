@@ -44,7 +44,7 @@ import java.util.concurrent.TimeUnit;
  * 第三方登录请移步AuthRestApi
  *
  * @author Ckp_Pro
- * @date 2021年2月6日17:50:23
+ * @date 2021年4月6日17:50:23
  */
 @RestController
 @RefreshScope

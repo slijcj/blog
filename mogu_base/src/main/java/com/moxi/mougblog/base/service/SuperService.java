@@ -7,7 +7,7 @@ import com.baomidou.mybatisplus.extension.service.IService;
  *
  * @param <T>
  * @author Ckp_Pro
- * @date 2018年9月9日09:30:13
+ * @date 2021年3月9日09:30:13
  */
 public interface SuperService<T> extends IService<T> {
 

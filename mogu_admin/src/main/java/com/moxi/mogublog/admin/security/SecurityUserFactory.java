@@ -13,7 +13,7 @@ import java.util.stream.Collectors;
  * SpringSecurity用户工厂类
  *
  * @author Ckp_Pro
- * @date 2021年3月19日20:03:25
+ * @date 2021年4月19日20:03:25
  */
 public final class SecurityUserFactory {
 

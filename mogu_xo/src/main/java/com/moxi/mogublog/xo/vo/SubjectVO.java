@@ -10,7 +10,7 @@ import lombok.Data;
  * SubjectVO
  *
  * @author: Ckp_Pro
- * @create: 2020年8月22日21:53:40
+ * @create: 2021年5月22日21:53:40
  */
 @Data
 public class SubjectVO extends BaseVO<SubjectVO> {

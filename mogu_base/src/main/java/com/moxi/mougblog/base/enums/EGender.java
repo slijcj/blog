@@ -4,7 +4,7 @@ package com.moxi.mougblog.base.enums;
  * 性别枚举类
  *
  * @author Ckp_Pro
- * @date 2021年2月28日09:28:14
+ * @date 2021年4月28日09:28:14
  */
 public class EGender {
 

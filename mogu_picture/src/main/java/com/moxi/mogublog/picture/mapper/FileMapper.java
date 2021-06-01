@@ -7,7 +7,7 @@ import com.moxi.mougblog.base.mapper.SuperMapper;
  * Mapper 接口
  *
  * @author Ckp_Pro
- * @since 2018-09-17
+ * @since 2021-09-17
  */
 public interface FileMapper extends SuperMapper<File> {
 

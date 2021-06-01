@@ -34,7 +34,7 @@ import java.util.Map;
  * 七牛云工具类
  *
  * @author Ckp_Pro
- * @date 2021年1月20日20:02:36
+ * @date 2021年4月20日20:02:36
  * @comments: 七牛云图片配置
  */
 @Slf4j

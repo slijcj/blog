@@ -37,7 +37,7 @@ import java.util.concurrent.TimeUnit;
  * 用户表 服务实现类
  *
  * @author Ckp_Pro
- * @since 2018-09-04
+ * @since 2021-09-04
  */
 @Service
 public class UserServiceImpl extends SuperServiceImpl<UserMapper, User> implements UserService {

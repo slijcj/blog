@@ -30,7 +30,7 @@ import java.util.List;
  * 字典数据 RestApi
  *
  * @author Ckp_Pro
- * @date 2021年2月15日21:16:31
+ * @date 2021年4月15日21:16:31
  */
 @RestController
 @RequestMapping("/sysDictData")

@@ -11,7 +11,7 @@ import java.util.List;
  * 专题表 服务类
  *
  * @author Ckp_Pro
- * @date 2021年2月22日22:03:52
+ * @date 2021年4月22日22:03:52
  */
 public interface SubjectService extends SuperService<Subject> {
 

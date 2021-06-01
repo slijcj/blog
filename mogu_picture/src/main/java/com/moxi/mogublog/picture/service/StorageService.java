@@ -13,7 +13,7 @@ import java.util.List;
  * </p>
  *
  * @author Ckp_Pro
- * @since 2020年6月13日17:22:32
+ * @since 2021年5月13日17:22:32
  */
 public interface StorageService extends SuperService<Storage> {
 

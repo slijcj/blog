@@ -11,7 +11,7 @@ import java.util.Map;
  * 行为枚举类
  *
  * @author Ckp_Pro
- * @date 2020/9/14 10:40
+ * @date 2021/9/14 10:40
  */
 @Slf4j
 public enum EBehavior {

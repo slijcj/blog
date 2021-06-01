@@ -9,7 +9,7 @@ import com.moxi.mougblog.base.service.SuperService;
  * 图片分类表 服务类
  *
  * @author Ckp_Pro
- * @date 2018-09-04
+ * @date 2021-09-04
  */
 public interface PictureSortService extends SuperService<PictureSort> {
 

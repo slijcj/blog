@@ -4,7 +4,7 @@ package com.moxi.mougblog.base.result;
  * 统一整个项目中Ajax请求返回的结果（未来也可以用于分布式架构各个模块间调用时返回统一类型）
  *
  * @author Ckp_Pro
- * @date 2021年3月9日18:39:20
+ * @date 2021年4月9日18:39:20
  */
 public class ResultEntity<T> {
 

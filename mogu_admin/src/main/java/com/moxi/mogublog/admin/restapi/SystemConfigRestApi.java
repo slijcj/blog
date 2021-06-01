@@ -18,7 +18,7 @@ import java.util.List;
  * 系统配置表 RestApi
  *
  * @author Ckp_Pro
- * @date 2021年1月21日09:24:37
+ * @date 2021年4月21日09:24:37
  */
 @Api(value = "系统配置相关接口", tags = {"系统配置相关接口"})
 @RestController

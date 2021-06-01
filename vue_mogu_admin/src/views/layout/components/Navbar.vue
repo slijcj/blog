@@ -54,14 +54,14 @@
     <el-dialog :title="title" :visible.sync="dialogFormVisible">
       <el-row class="panel-group" style="margin-left:20px;" :gutter="40">
         <el-collapse v-model="activeName" accordion>
-          <el-collapse-item title="2018.12.20 更新" name="1">
+          <el-collapse-item title="2021.12.20 更新" name="1">
             <div>增加更新日志</div>
           </el-collapse-item>
-          <el-collapse-item title="2018.12.19 更新" name="2">
+          <el-collapse-item title="2021.12.19 更新" name="2">
             <div>修改Gitee中readme页面</div>
             <div>项目地址：https://gitee.com/moxi159753/mogu_blog_v2</div>
           </el-collapse-item>
-          <el-collapse-item title="2018.12.18 更新" name="3">
+          <el-collapse-item title="2021.12.18 更新" name="3">
             <div>重新部署了线上环境</div>
             <div>线上环境地址：http://www.moguit.cn</div>
           </el-collapse-item>

@@ -10,7 +10,7 @@ import lombok.Data;
  * LinkVO
  *
  * @author: Ckp_Pro
- * @create: 2019年12月11日12:41:28
+ * @create: 2021年42月11日12:41:28
  */
 @Data
 public class LinkVO extends BaseVO<LinkVO> {

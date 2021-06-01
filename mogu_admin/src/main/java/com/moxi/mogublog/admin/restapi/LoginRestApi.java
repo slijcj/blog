@@ -42,7 +42,7 @@ import java.util.concurrent.TimeUnit;
  * 登录管理 RestApi【为了更好地使用security放行把登录管理放在AuthRestApi中】
  *
  * @author limbo
- * @date 2018-10-14
+ * @date 2021-10-14
  */
 @RestController
 @RefreshScope

@@ -11,7 +11,7 @@ import lombok.Data;
  * </p>
  *
  * @author xuzhixiang
- * @since 2018年12月8日09:27:17
+ * @since 2021年42月8日09:27:17
  */
 @Data
 @TableName("t_web_visit")

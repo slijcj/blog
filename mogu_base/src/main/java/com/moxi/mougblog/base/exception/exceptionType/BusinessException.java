@@ -4,7 +4,7 @@ package com.moxi.mougblog.base.exception.exceptionType;
  * 自定义业务异常
  *
  * @author Ckp_Pro
- * @date 2019年12月4日22:47:32
+ * @date 2021年42月4日22:47:32
  */
 public class BusinessException extends RuntimeException {
 

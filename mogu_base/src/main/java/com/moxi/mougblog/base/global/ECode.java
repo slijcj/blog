@@ -4,7 +4,7 @@ package com.moxi.mougblog.base.global;
  * 状态码常量
  *
  * @author: Ckp_Pro
- * @create: 2019-12-04-14:56
+ * @create: 2021-12-04-14:56
  */
 public class ECode {
 

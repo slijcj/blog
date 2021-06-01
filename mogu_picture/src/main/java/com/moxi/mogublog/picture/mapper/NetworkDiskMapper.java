@@ -7,7 +7,7 @@ import com.moxi.mougblog.base.mapper.SuperMapper;
  * Mapper 接口
  *
  * @author Ckp_Pro
- * @since 2020年6月13日17:08:09
+ * @since 2021年5月13日17:08:09
  */
 public interface NetworkDiskMapper extends SuperMapper<NetworkDisk> {
 

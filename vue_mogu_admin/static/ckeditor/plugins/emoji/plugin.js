@@ -1,5 +1,5 @@
 ﻿/*
- Copyright (c) 2003-2018, CKSource - Frederico Knabben. All rights reserved.
+ Copyright (c) 2003-2021, CKSource - Frederico Knabben. All rights reserved.
  For licensing, see LICENSE.md or https://ckeditor.com/legal/ckeditor-oss-license
 */
 (function(){var b=!1;CKEDITOR.plugins.add("emoji",{requires:"autocomplete,textmatch,ajax",beforeInit:function(){CKEDITOR.env.ie&&11>CKEDITOR.env.version||b||(CKEDITOR.document.appendStyleSheet(this.path+"skins/default.css"),b=!0)},init:function(a){CKEDITOR.ajax.load(CKEDITOR.getUrl(a.config.emoji_emojiListUrl||"plugins/emoji/emoji.json"),function(b){function c(){a._.emoji.autocomplete=new CKEDITOR.plugins.autocomplete(a,{textTestCallback:f(),dataCallback:g,itemTemplate:'\x3cli data-id\x3d"{id}" class\x3d"cke_emoji_suggestion_item"\x3e{symbol} {id}\x3c/li\x3e',

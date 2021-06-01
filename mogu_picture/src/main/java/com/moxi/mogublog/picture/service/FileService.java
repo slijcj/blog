@@ -13,7 +13,7 @@ import java.util.List;
  * 文件服务类
  *
  * @author Ckp_Pro
- * @since 2018-09-17
+ * @since 2021-09-17
  */
 public interface FileService extends SuperService<File> {
 

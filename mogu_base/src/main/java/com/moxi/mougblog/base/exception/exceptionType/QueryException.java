@@ -9,7 +9,7 @@ import java.io.Serializable;
  * 自定义查询操作相关的异常
  *
  * @author Ckp_Pro
- * @date 2021年3月9日16:58:07
+ * @date 2021年4月9日16:58:07
  */
 public class QueryException extends RuntimeException implements Serializable {
 

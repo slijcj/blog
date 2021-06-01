@@ -4,7 +4,7 @@ package com.moxi.mougblog.base.enums;
  * 网站登录方式枚举类
  *
  * @Author: Ckp_Pro
- * @Date: 2020年10月14日11:10:04
+ * @Date: 2021年40月14日11:10:04
  */
 public enum ELoginType {
 

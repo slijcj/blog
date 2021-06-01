@@ -4,7 +4,7 @@ package com.moxi.mogublog.utils;
  * 雪花ID生成器
  *
  * @author: Ckp_Pro
- * @create: 2020-11-13-10:36
+ * @create: 2021-11-13-10:36
  *
  * Twitter开源的分布式Id生成器，使用雪花算法
  * SnowFlake的结构如下(每部分用-分开):<br>

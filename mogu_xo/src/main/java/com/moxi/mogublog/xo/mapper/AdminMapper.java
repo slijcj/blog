@@ -8,7 +8,7 @@ import org.apache.ibatis.annotations.Param;
  * 管理员表 Mapper 接口
  *
  * @author Ckp_Pro
- * @since 2018-09-04
+ * @since 2021-09-04
  */
 public interface AdminMapper extends SuperMapper<Admin> {
 

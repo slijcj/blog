@@ -13,7 +13,7 @@ import java.util.Objects;
  * 抛出异常工具类
  *
  * @author Ckp_Pro
- * @date 2019年12月4日22:47:18
+ * @date 2021年42月4日22:47:18
  */
 public class ThrowableUtils {
     /**

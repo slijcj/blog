@@ -9,7 +9,7 @@
 // * 用于建立solr索引实体类
 // *
 // * @author limboy
-// * @create 2018-09-29 16:12
+// * @create 2021-09-29 16:12
 // */
 //@Data
 //public class SolrIndex {

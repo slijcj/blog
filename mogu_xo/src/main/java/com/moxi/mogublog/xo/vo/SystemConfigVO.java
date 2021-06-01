@@ -9,7 +9,7 @@ import lombok.Data;
  * 网站配置VO
  *
  * @author Ckp_Pro
- * @since 2018年11月11日14:54:12
+ * @since 2021年41月11日14:54:12
  */
 @Data
 public class SystemConfigVO extends BaseVO<SystemConfigVO> {

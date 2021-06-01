@@ -12,7 +12,7 @@ import java.util.Map;
  * 字典数据 服务类
  *
  * @author Ckp_Pro
- * @date 2021年2月15日21:06:45
+ * @date 2021年4月15日21:06:45
  */
 public interface SysDictDataService extends SuperService<SysDictData> {
     /**

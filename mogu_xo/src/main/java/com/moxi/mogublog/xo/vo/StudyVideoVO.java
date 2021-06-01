@@ -11,7 +11,7 @@ import lombok.ToString;
  * StudyVideoVO
  *
  * @author: Ckp_Pro
- * @create: 2020年1月10日22:30:29
+ * @create: 2021年4月10日22:30:29
  */
 @ToString
 @Data

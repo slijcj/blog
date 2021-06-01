@@ -10,7 +10,7 @@ import org.springframework.stereotype.Service;
  * 收藏表 服务实现类
  *
  * @author Ckp_Pro
- * @since 2018-09-08
+ * @since 2021-09-08
  */
 @Service
 public class CollectServiceImpl extends SuperServiceImpl<CollectMapper, Collect> implements CollectService {

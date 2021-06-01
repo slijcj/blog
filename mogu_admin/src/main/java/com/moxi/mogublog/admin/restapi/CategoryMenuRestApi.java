@@ -24,7 +24,7 @@ import org.springframework.web.bind.annotation.*;
  * 菜单表 RestApi
  *
  * @author Ckp_Pro
- * @date 2018年9月24日15:45:18
+ * @date 2021年3月24日15:45:18
  */
 
 @RestController
@@ -93,7 +93,7 @@ public class CategoryMenuRestApi {
      * 如果是一级菜单，直接置顶在最前面，二级菜单，就在一级菜单内置顶
      *
      * @author xzx19950624@qq.com
-     * @date 2018年11月29日上午9:22:59
+     * @date 2021年41月29日上午9:22:59
      */
     @AuthorityVerify
     @OperationLogger(value = "置顶菜单")

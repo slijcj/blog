@@ -2,7 +2,7 @@ package com.moxi.mougblog.base.enums;
 
 /**
  * @Author: Ckp_Pro
- * @Date: 2019年12月4日15:13:43
+ * @Date: 2021年42月4日15:13:43
  */
 public enum SystemLanguageEnum {
 

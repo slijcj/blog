@@ -10,7 +10,7 @@ import javax.validation.ConstraintValidatorContext;
  * 判断是否为空字符串【校验器】
  *
  * @author Ckp_Pro
- * @date 2019年12月4日13:17:17
+ * @date 2021年42月4日13:17:17
  */
 public class StringValidator implements ConstraintValidator<NotBlank, String> {
     @Override

@@ -12,7 +12,7 @@ import java.util.List;
  * </p>
  *
  * @author xuzhixiang
- * @since 2018年11月11日14:54:12
+ * @since 2021年41月11日14:54:12
  */
 @Data
 public class WebConfigVO extends BaseVO<WebConfigVO> {

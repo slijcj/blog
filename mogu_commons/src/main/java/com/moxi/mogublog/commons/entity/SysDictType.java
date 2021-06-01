@@ -11,7 +11,7 @@ import lombok.Data;
  * </p>
  *
  * @author Ckp_Pro
- * @since 2020年2月15日19:58:46
+ * @since 2021年4月15日19:58:46
  */
 @Data
 @TableName("t_sys_dict_type")
